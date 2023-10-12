@@ -1,0 +1,1001 @@
+"Customer ID",Gender,Age,City,"Tenure in Months",Offer,"Phone Service","Avg Monthly Long Distance Charges","Internet Service",Contract,"Total Revenue","Customer Status","Churn Category","Churn Reason"
+0002-ORFBO,Female,37,"Frazier Park",9,None,Yes,42.39,Yes,"One Year",974.81,Stayed,,
+0003-MKNFE,Male,46,Glendale,9,None,Yes,10.69,Yes,Month-to-Month,610.28,Stayed,,
+0004-TLHLJ,Male,50,"Costa Mesa",4,"Offer E",Yes,33.65,Yes,Month-to-Month,415.45,Churned,Competitor,"Competitor had better devices"
+0011-IGKFF,Male,78,Martinez,13,"Offer D",Yes,27.82,Yes,Month-to-Month,1599.51,Churned,Dissatisfaction,"Product dissatisfaction"
+0013-EXCHZ,Female,75,Camarillo,3,None,Yes,7.38,Yes,Month-to-Month,289.54,Churned,Dissatisfaction,"Network reliability"
+0013-MHZWF,Female,23,Midpines,9,"Offer E",Yes,16.77,Yes,Month-to-Month,722.38,Stayed,,
+0013-SMEOE,Female,67,Lompoc,71,"Offer A",Yes,9.96,Yes,"Two Year",8611.41,Stayed,,
+0014-BMAQU,Male,52,Napa,63,"Offer B",Yes,12.96,Yes,"Two Year",6214.28,Stayed,,
+0015-UOCOJ,Female,68,"Simi Valley",7,"Offer E",Yes,10.53,Yes,"Two Year",414.06,Stayed,,
+0016-QLJIS,Female,43,Sheridan,65,None,Yes,28.46,Yes,"Two Year",7807.8,Stayed,,
+0017-IUDMW,Female,25,Sunnyvale,72,None,Yes,16.01,Yes,"Two Year",9609.47,Stayed,,
+0018-NYROU,Female,58,Antelope,5,None,Yes,18.65,Yes,Month-to-Month,444.75,Stayed,,
+0019-EFAEP,Female,32,"La Mesa",72,"Offer A",Yes,2.25,Yes,"Two Year",7423.25,Stayed,,
+0020-INWCK,Female,58,Woodlake,71,"Offer A",Yes,27.26,Yes,"Two Year",8784.86,Stayed,,
+0021-IKXGC,Female,72,"San Marcos",1,"Offer E",Yes,7.77,Yes,"One Year",79.87,Joined,,
+0022-TCJCI,Male,79,"Daly City",45,None,Yes,10.67,Yes,"One Year",3271.65,Churned,Dissatisfaction,"Limited range of services"
+0023-XUOPT,Female,26,"Carnelian Bay",13,None,Yes,43.56,Yes,Month-to-Month,1781.88,Churned,Other,"Don't know"
+0027-KWYKW,Female,30,Alpaugh,23,"Offer D",Yes,34.91,Yes,Month-to-Month,2652.88,Stayed,,
+0036-IHMOT,Female,37,Parlier,55,None,Yes,35.04,Yes,"One Year",7603.95,Stayed,,
+0048-LUMLS,Male,23,"Moss Beach",37,"Offer C",Yes,43.01,Yes,"One Year",4838.92,Stayed,,
+0052-DCKON,Male,28,"Los Angeles",66,None,Yes,43.77,Yes,"One Year",10830.97,Stayed,,
+0058-EVZWM,Female,37,Stockton,55,"Offer B",Yes,5.08,Yes,Month-to-Month,5239,Stayed,,
+0060-FUALY,Female,60,"Los Angeles",59,"Offer B",Yes,16.39,Yes,Month-to-Month,6564.66,Stayed,,
+0064-YIJGF,Male,60,Yermo,27,"Offer C",Yes,25.26,Yes,Month-to-Month,2611.02,Stayed,,
+0067-DKWBL,Male,69,"San Diego",2,None,Yes,43.99,Yes,Month-to-Month,179.08,Churned,Competitor,"Competitor made better offer"
+0068-FIGTF,Female,20,Fremont,27,"Offer C",Yes,48.91,Yes,"One Year",3399.52,Stayed,,
+0074-HDKDG,Male,46,"San Jose",25,None,Yes,6.45,Yes,"One Year",1727.35,Stayed,,
+0078-XZMHT,Male,19,Visalia,72,None,Yes,32.36,Yes,"Two Year",8646.12,Stayed,,
+0080-EMYVY,Female,64,Lodi,14,None,Yes,24.04,Yes,"One Year",1064.41,Stayed,,
+0080-OROZO,Female,38,"El Portal",35,"Offer C",Yes,36.42,Yes,"One Year",4806.7,Stayed,,
+0082-LDZUE,Male,54,Calistoga,1,"Offer E",Yes,42.95,Yes,Month-to-Month,87.25,Joined,,
+0082-OQIQY,Male,50,Farmington,29,None,Yes,2.05,Yes,Month-to-Month,2687.05,Stayed,,
+0083-PIVIK,Male,25,Tulelake,64,None,Yes,5.49,Yes,"One Year",5958.91,Stayed,,
+0089-IIQKO,Female,35,Coleville,39,None,Yes,24.38,Yes,Month-to-Month,4718.22,Stayed,,
+0093-EXYQL,Female,72,Ojai,40,None,Yes,44.14,Yes,"Two Year",5439.2,Stayed,,
+0093-XWZFY,Male,51,"Desert Hot Springs",40,None,Yes,37.69,Yes,Month-to-Month,5544.45,Churned,Competitor,"Competitor had better devices"
+0094-OIFMO,Female,78,"North Hollywood",11,"Offer D",Yes,11.59,Yes,Month-to-Month,1367.79,Churned,Dissatisfaction,"Product dissatisfaction"
+0096-BXERS,Female,30,Inverness,6,"Offer E",Yes,42.66,Yes,Month-to-Month,570.51,Stayed,,
+0096-FCPUF,Male,58,"Santa Rosa",30,None,Yes,2.64,Yes,Month-to-Month,1967.65,Stayed,,
+0100-DUVFC,Male,66,Wilmington,70,None,Yes,39.49,Yes,"One Year",10067.14,Stayed,,
+0103-CSITQ,Female,20,Modesto,57,"Offer B",Yes,8.01,Yes,"One Year",6709.27,Stayed,,
+0104-PPXDV,Male,61,"San Diego",58,None,Yes,18.37,Yes,"One Year",3933.78,Stayed,,
+0106-GHRQR,Male,24,"Rancho Palos Verdes",16,None,Yes,25.71,Yes,Month-to-Month,1623.46,Stayed,,
+0106-UGRDO,Female,55,Kenwood,69,"Offer A",Yes,38.52,Yes,"Two Year",10840.73,Stayed,,
+0107-YHINA,Male,59,"Los Angeles",1,None,Yes,40.71,Yes,Month-to-Month,140.46,Churned,Competitor,"Competitor had better devices"
+0111-KLBQG,Male,71,"Morongo Valley",32,"Offer C",Yes,31.86,Yes,"One Year",3880.97,Stayed,,
+0112-QAWRZ,Male,49,"Palo Verde",16,"Offer D",Yes,48.71,Yes,Month-to-Month,2221.56,Stayed,,
+0112-QWPNC,Male,61,Valyermo,49,"Offer B",Yes,39.55,Yes,"One Year",5997.3,Churned,Competitor,"Competitor offered higher download speeds"
+0114-PEGZZ,Female,39,"Round Mountain",33,None,Yes,49.69,Yes,Month-to-Month,5285.27,Stayed,,
+0115-TFERT,Male,24,Fresno,21,None,Yes,36.26,Yes,Month-to-Month,3198.56,Churned,Attitude,"Attitude of service provider"
+0118-JPNOY,Female,71,"Le Grand",26,None,Yes,33.74,Yes,Month-to-Month,3070.89,Stayed,,
+0122-OAHPZ,Female,29,"San Diego",7,None,Yes,28.62,Yes,Month-to-Month,698.56,Churned,Competitor,"Competitor made better offer"
+0123-CRBRT,Female,62,"Monterey Park",61,"Offer B",Yes,47.19,Yes,"Two Year",8405.34,Stayed,,
+0125-LZQXK,Male,42,"Big Oak Flat",15,"Offer D",Yes,45.92,Yes,Month-to-Month,2242.75,Churned,Attitude,"Attitude of service provider"
+0129-KPTWJ,Male,39,"North Highlands",72,None,Yes,33.22,Yes,Month-to-Month,9139.19,Stayed,,
+0130-SXOUN,Male,55,Glenhaven,66,"Offer A",Yes,48.78,Yes,Month-to-Month,9200.36,Stayed,,
+0133-BMFZO,Female,40,Alhambra,2,None,Yes,36.81,Yes,Month-to-Month,255.27,Churned,Competitor,"Competitor offered higher download speeds"
+0134-XWXCE,Female,76,"Santa Monica",44,None,Yes,7.72,Yes,"One Year",3589.82,Stayed,,
+0135-NMXAP,Female,57,Lodi,12,"Offer D",Yes,14.38,Yes,Month-to-Month,1224.96,Churned,Attitude,"Attitude of support person"
+0136-IFMYD,Male,71,"Los Angeles",69,None,Yes,18.41,Yes,"Two Year",8904.54,Stayed,,
+0137-OCGAB,Female,25,Fairfield,1,"Offer E",Yes,1.23,Yes,Month-to-Month,81.43,Churned,Price,"Lack of affordable download/upload speed"
+0139-IVFJG,Female,19,Temecula,2,None,Yes,4.65,Yes,Month-to-Month,199.8,Joined,,
+0141-YEAYS,Female,77,Fallbrook,27,None,Yes,2.97,Yes,"Two Year",2481.24,Stayed,,
+0147-ESWWR,Female,73,Atascadero,39,None,Yes,20.15,Yes,Month-to-Month,4735,Stayed,,
+0148-DCDOS,Male,41,Planada,25,None,Yes,34.88,Yes,Month-to-Month,3234.1,Churned,Competitor,"Competitor had better devices"
+0151-ONTOV,Female,43,Moorpark,1,"Offer E",Yes,39.81,Yes,Month-to-Month,110.71,Churned,Competitor,"Competitor had better devices"
+0156-FVPTA,Male,48,Solvang,22,"Offer D",Yes,27.24,Yes,Month-to-Month,1751.98,Churned,Attitude,"Attitude of service provider"
+0164-APGRB,Female,56,Calistoga,72,"Offer A",Yes,48.37,Yes,"Two Year",11979.34,Stayed,,
+0168-XZKBB,Female,34,Boron,19,None,Yes,7.84,Yes,Month-to-Month,1713.36,Stayed,,
+0177-PXBAT,Male,78,"Desert Center",33,None,Yes,25.15,Yes,"One Year",4524.65,Stayed,,
+0178-SZBHO,Male,54,Tuolumne,47,None,Yes,1.09,Yes,Month-to-Month,4068.68,Stayed,,
+0181-RITDD,Male,42,"San Diego",62,None,Yes,1.76,Yes,"Two Year",6934.77,Stayed,,
+0186-CAERR,Male,22,Auburn,71,None,Yes,2.88,Yes,"One Year",8514.03,Stayed,,
+0187-QSXOE,Male,71,Fresno,7,None,Yes,41.97,Yes,"Two Year",899.24,Stayed,,
+0187-WZNAB,Female,56,"Del Rey",27,"Offer C",Yes,46.66,Yes,Month-to-Month,3232.17,Stayed,,
+0191-ZHSKZ,Male,80,Hawthorne,30,None,Yes,38.61,Yes,"One Year",3269.6,Stayed,,
+0193-ESZXP,Female,73,Oceano,58,None,Yes,16.94,Yes,"One Year",7188.02,Churned,Attitude,"Attitude of support person"
+0195-IESCP,Male,26,Armona,10,"Offer D",Yes,2.02,Yes,Month-to-Month,975.5,Churned,Competitor,"Competitor offered more data"
+0196-JTUQI,Female,59,Clarksburg,9,None,Yes,9.27,Yes,Month-to-Month,717.28,Stayed,,
+0196-VULGZ,Female,78,Irvine,6,None,Yes,28.71,Yes,Month-to-Month,647.16,Churned,Other,Deceased
+0197-PNKNK,Female,47,"Scotts Valley",69,None,Yes,38.92,Yes,"One Year",8574.08,Stayed,,
+0201-MIBOL,Female,68,Salida,66,None,Yes,10.45,Yes,"Two Year",7161.55,Stayed,,
+0201-OAMXR,Female,30,Mckinleyville,70,"Offer A",Yes,10.21,Yes,"One Year",8842.3,Churned,Dissatisfaction,"Network reliability"
+0206-TBWLC,Female,63,Calimesa,54,"Offer B",Yes,11.4,Yes,"One Year",6665.1,Stayed,,
+0207-MDKNV,Female,54,"Daly City",15,None,Yes,22.39,Yes,Month-to-Month,1918.6,Churned,Competitor,"Competitor made better offer"
+0215-BQKGS,Male,52,"Garden Grove",30,"Offer C",Yes,24.73,Yes,Month-to-Month,3310.5,Stayed,,
+0218-QNVAS,Male,22,Indio,71,"Offer A",Yes,28.34,Yes,"One Year",9108.9,Stayed,,
+0219-YTZUE,Male,26,"San Diego",4,"Offer E",Yes,28.77,Yes,Month-to-Month,486.98,Churned,Competitor,"Competitor made better offer"
+0220-EBGCE,Male,58,Escondido,2,"Offer E",Yes,14.14,Yes,Month-to-Month,195.58,Churned,Competitor,"Competitor made better offer"
+0221-WMXNQ,Male,66,Chino,4,"Offer E",Yes,36.4,Yes,"One Year",419,Stayed,,
+0224-HJAPT,Male,25,"San Diego",5,None,Yes,22.01,Yes,Month-to-Month,333.2,Churned,Competitor,"Competitor made better offer"
+0224-RLWWD,Female,73,Calexico,2,"Offer E",Yes,23.91,Yes,"One Year",137.12,Joined,,
+0225-ZORZP,Male,46,Groveland,3,"Offer E",Yes,13.72,Yes,Month-to-Month,276.21,Joined,,
+0228-MAUWC,Male,40,"Los Gatos",19,"Offer D",Yes,11.85,Yes,Month-to-Month,1369.75,Stayed,,
+0229-LFJAF,Male,53,Clovis,72,"Offer A",Yes,3.66,Yes,"Two Year",5171.77,Stayed,,
+0231-LXVAP,Male,23,Temecula,1,None,Yes,44.56,Yes,Month-to-Month,120.46,Churned,Competitor,"Competitor made better offer"
+0233-FTHAV,Female,24,Livingston,60,None,Yes,15.29,Yes,"One Year",5682.4,Stayed,,
+0235-KGSLC,Female,45,Buellton,1,"Offer E",Yes,33.34,Yes,Month-to-Month,118.89,Churned,Other,Moved
+0236-HFWSV,Male,49,Palmdale,15,None,Yes,48.93,Yes,Month-to-Month,2178.6,Churned,Competitor,"Competitor had better devices"
+0237-YFUTL,Female,62,"Midway City",50,"Offer B",Yes,34.57,Yes,Month-to-Month,7134.3,Stayed,,
+0238-WHBIQ,Male,25,Folsom,72,"Offer A",Yes,33.75,Yes,"Two Year",8769.3,Stayed,,
+0239-OXEXL,Female,37,Oakland,46,None,Yes,43.27,Yes,Month-to-Month,5938.02,Stayed,,
+0244-LGNFY,Female,35,"San Anselmo",72,None,Yes,30,Yes,"Two Year",8893,Stayed,,
+0248-IPDFW,Female,19,"Lake Elsinore",1,None,Yes,29.13,Yes,Month-to-Month,79.23,Joined,,
+0248-PGHBZ,Female,69,"San Clemente",67,"Offer A",Yes,2.57,Yes,"Two Year",6313.04,Stayed,,
+0253-ZTEOB,Female,44,"Los Angeles",48,None,Yes,8.94,Yes,"Two Year",4299.42,Stayed,,
+0254-FNMCI,Female,19,Downey,72,None,Yes,41.91,Yes,"Two Year",10641.72,Stayed,,
+0254-KCJGT,Male,64,"Bodega Bay",52,"Offer B",Yes,41.34,Yes,"One Year",6504.13,Stayed,,
+0254-WWRKD,Female,44,Challenge,67,"Offer A",Yes,46.9,Yes,"One Year",6574.05,Stayed,,
+0256-LTHVJ,Female,58,Ludlow,28,"Offer C",Yes,16.85,Yes,Month-to-Month,2698.9,Churned,Competitor,"Competitor had better devices"
+0257-KXZGU,Female,29,"Santa Clara",32,"Offer C",Yes,33.28,Yes,Month-to-Month,3110.51,Stayed,,
+0257-ZESQC,Female,80,Perris,27,None,Yes,7.02,Yes,Month-to-Month,2118.89,Churned,Attitude,"Attitude of support person"
+0258-NOKBL,Male,22,Fortuna,3,None,Yes,31.48,Yes,Month-to-Month,362.89,Joined,,
+0259-GBZSH,Male,22,"San Diego",2,"Offer E",Yes,40.43,Yes,Month-to-Month,262.36,Churned,Competitor,"Competitor made better offer"
+0260-ZDLGK,Female,50,"San Dimas",9,None,Yes,35.49,Yes,Month-to-Month,970.81,Churned,Competitor,"Competitor made better offer"
+0263-FJTQO,Male,53,Rescue,50,"Offer B",Yes,44.49,Yes,"Two Year",5711.15,Stayed,,
+0265-EDXBD,Male,76,"San Diego",32,"Offer C",Yes,47.34,Yes,Month-to-Month,3818.23,Churned,Attitude,"Attitude of support person"
+0265-PSUAE,Female,57,Lotus,16,"Offer D",Yes,27.27,Yes,Month-to-Month,1959.02,Stayed,,
+0266-CLZKZ,Female,45,"San Marcos",67,"Offer A",Yes,17.79,Yes,"Two Year",7909.83,Stayed,,
+0266-GMEAO,Male,43,Lompoc,72,None,Yes,15.94,Yes,"Two Year",9206.23,Stayed,,
+0270-THENM,Male,62,"Mission Hills",72,None,Yes,28.37,Yes,"Two Year",7119.75,Stayed,,
+0277-BKSQP,Male,49,"Harbor City",8,"Offer E",Yes,1.56,Yes,Month-to-Month,487.58,Stayed,,
+0280-XJGEX,Male,38,"Los Angeles",49,None,Yes,44.33,Yes,Month-to-Month,7208.47,Churned,Competitor,"Competitor had better devices"
+0285-INHLN,Male,54,Badger,27,None,Yes,36.19,Yes,Month-to-Month,2487.43,Stayed,,
+0289-IVARM,Female,57,Parlier,35,None,Yes,44.81,Yes,Month-to-Month,3550.95,Stayed,,
+0292-WEGCH,Female,40,"Death Valley",54,"Offer B",Yes,4.33,Yes,Month-to-Month,4757.87,Stayed,,
+0295-PPHDO,Male,56,"La Puente",1,None,Yes,5.59,Yes,Month-to-Month,101.04,Churned,Competitor,"Competitor had better devices"
+0295-QVKPB,Male,38,Riverdale,5,"Offer E",Yes,13.96,Yes,Month-to-Month,387.9,Stayed,,
+0297-RBCSG,Male,61,"San Francisco",19,None,Yes,41.79,Yes,"One Year",2085.86,Stayed,,
+0302-JOIVN,Female,47,"San Diego",8,None,Yes,16.88,Yes,Month-to-Month,977.94,Churned,Competitor,"Competitor made better offer"
+0303-UNCIP,Male,35,Claremont,41,"Offer B",Yes,37.55,Yes,"One Year",4211.35,Stayed,,
+0306-JAELE,Male,61,Fallbrook,5,None,Yes,31.09,Yes,Month-to-Month,608.85,Churned,Competitor,"Competitor made better offer"
+0308-GIQJT,Male,80,"San Diego",71,None,Yes,6.1,Yes,"One Year",7815.95,Stayed,,
+0310-MVLET,Female,63,Snelling,61,None,Yes,49.33,Yes,Month-to-Month,9019.18,Churned,Dissatisfaction,"Service dissatisfaction"
+0310-SUCIN,Female,50,Darwin,71,None,Yes,23.06,Yes,"One Year",7683.36,Stayed,,
+0311-QYWSS,Female,63,Garberville,6,None,Yes,39.16,Yes,Month-to-Month,549.56,Stayed,,
+0311-UNPFF,Female,58,"Long Beach",26,None,Yes,38.09,Yes,Month-to-Month,3314.69,Churned,Dissatisfaction,"Service dissatisfaction"
+0314-TKOSI,Female,29,Upland,6,"Offer E",Yes,6.98,Yes,Month-to-Month,364.78,Stayed,,
+0315-LVCRK,Male,54,"El Dorado Hills",11,None,Yes,30.57,Yes,Month-to-Month,1225.02,Stayed,,
+0318-QUUOB,Male,25,"Santa Rosa",1,None,Yes,43.67,Yes,Month-to-Month,124.22,Churned,Competitor,"Competitor had better devices"
+0319-QZTCO,Female,25,"Santa Rosa",3,"Offer E",Yes,11.47,Yes,Month-to-Month,203.01,Joined,,
+0320-DWVTU,Female,46,Riverdale,53,"Offer B",Yes,43.57,Yes,"Two Year",7733.46,Stayed,,
+0320-JDNQG,Male,28,Oxnard,23,None,Yes,37.95,Yes,Month-to-Month,3204.15,Churned,Other,"Don't know"
+0322-CHQRU,Male,63,Palmdale,2,None,Yes,25.49,Yes,Month-to-Month,140.48,Churned,Competitor,"Competitor had better devices"
+0322-YINQP,Male,37,Covina,1,None,Yes,11.35,Yes,Month-to-Month,59.9,Churned,Attitude,"Attitude of support person"
+0324-BRPCJ,Female,74,Palmdale,68,None,Yes,21.33,Yes,Month-to-Month,8302.09,Churned,Competitor,"Competitor offered more data"
+0325-XBFAC,Male,44,Hoopa,8,None,Yes,19.49,Yes,Month-to-Month,976.22,Churned,Competitor,"Competitor offered more data"
+0326-VDYXE,Female,21,"Long Beach",70,"Offer A",Yes,16.66,Yes,"One Year",8228.7,Stayed,,
+0327-WFZSY,Male,62,Samoa,39,"Offer C",Yes,17.29,Yes,"One Year",4509.86,Stayed,,
+0328-GRPMV,Female,43,"Burnt Ranch",1,None,Yes,17.37,Yes,Month-to-Month,87.47,Churned,Competitor,"Competitor had better devices"
+0329-GTIAJ,Female,40,"Garden Grove",3,None,Yes,30.18,Yes,Month-to-Month,405.84,Churned,Price,"Price too high"
+0330-BGYZE,Male,48,Milford,60,"Offer B",Yes,19.22,Yes,"One Year",7310.8,Stayed,,
+0330-IVZHA,Female,55,Anderson,5,"Offer E",Yes,17.08,Yes,Month-to-Month,415.55,Churned,Attitude,"Attitude of service provider"
+0334-GDDSO,Male,77,"San Diego",3,"Offer E",Yes,9.22,Yes,Month-to-Month,261.36,Churned,Competitor,"Competitor made better offer"
+0334-ZFJSR,Female,41,"San Diego",55,None,Yes,35.38,Yes,"One Year",5513.47,Stayed,,
+0336-PIKEI,Male,69,Orange,72,"Offer A",Yes,5.27,Yes,"Two Year",5880.19,Stayed,,
+0337-CNPZE,Female,63,"Los Angeles",41,None,Yes,10.43,Yes,Month-to-Month,5001.08,Churned,Price,"Price too high"
+0345-HKJVM,Female,43,"San Diego",6,None,Yes,2.6,Yes,Month-to-Month,593.2,Churned,Other,"Don't know"
+0345-XMMUG,Female,29,Ione,46,None,Yes,2,Yes,"Two Year",4946.3,Stayed,,
+0348-SDKOL,Female,33,"San Diego",58,None,Yes,3.51,Yes,Month-to-Month,6188.98,Churned,Competitor,"Competitor made better offer"
+0354-WYROK,Female,70,"San Francisco",31,"Offer C",Yes,47.95,Yes,Month-to-Month,4397.75,Churned,Other,"Don't know"
+0356-ERHVT,Male,54,"Santa Cruz",11,"Offer D",Yes,12.95,Yes,Month-to-Month,664.35,Stayed,,
+0356-OBMAC,Female,80,Winchester,56,None,Yes,17.33,Yes,"Two Year",6676.78,Stayed,,
+0362-ZBZWJ,Male,46,Thornton,36,None,Yes,24.66,Yes,Month-to-Month,3954.96,Churned,Attitude,"Attitude of service provider"
+0363-QJVFX,Male,22,"Lake Hughes",32,"Offer C",Yes,27.69,Yes,Month-to-Month,4318.98,Churned,Attitude,"Attitude of service provider"
+0363-SVHYR,Male,28,Paramount,71,"Offer A",Yes,10.11,Yes,"Two Year",6981.61,Stayed,,
+0365-BZUWY,Male,58,"San Juan Capistrano",17,"Offer D",Yes,10.11,Yes,Month-to-Month,1914.37,Stayed,,
+0365-GXEZS,Male,55,Copperopolis,18,"Offer D",Yes,31.79,Yes,Month-to-Month,2040.97,Stayed,,
+0365-TRTPY,Female,52,Covina,37,None,Yes,11.73,Yes,Month-to-Month,3816.31,Stayed,,
+0369-ZGOVK,Female,56,Cypress,28,"Offer C",Yes,12.94,Yes,"One Year",2354.52,Stayed,,
+0374-AACSZ,Female,63,Lancaster,1,"Offer E",Yes,38.33,Yes,Month-to-Month,138.48,Joined,,
+0374-IOEGQ,Female,62,Gonzales,3,None,Yes,15.59,Yes,Month-to-Month,169.47,Joined,,
+0376-OIWME,Male,24,"San Ysidro",36,"Offer C",Yes,41.33,Yes,Month-to-Month,4837.37,Stayed,,
+0376-YMCJC,Male,21,Novato,23,None,Yes,38.69,Yes,Month-to-Month,2828.34,Churned,Competitor,"Competitor offered higher download speeds"
+0377-JBKKT,Male,21,Gilroy,22,"Offer D",Yes,42.58,Yes,Month-to-Month,2208.56,Stayed,,
+0378-CJKPV,Female,56,"Oak Park",72,None,Yes,4.56,Yes,"Two Year",8275.39,Stayed,,
+0378-NHQXU,Female,31,"South San Francisco",17,None,Yes,17.91,Yes,Month-to-Month,1765.12,Churned,Other,Deceased
+0378-TOVMS,Female,20,Vernalis,3,None,Yes,10.6,Yes,Month-to-Month,304,Churned,Competitor,"Competitor had better devices"
+0378-XSZPU,Male,31,"San Jose",58,"Offer B",Yes,17.22,Yes,"One Year",4562.56,Churned,Dissatisfaction,"Network reliability"
+0379-DJQHR,Male,60,Sunnyvale,67,None,Yes,45.25,Yes,"Two Year",8430.35,Stayed,,
+0380-NEAVX,Male,72,"Newport Beach",34,None,Yes,35,Yes,"One Year",4533.15,Stayed,,
+0383-CLDDA,Female,42,Stanford,69,"Offer A",Yes,18.47,Yes,"Two Year",7171.83,Stayed,,
+0384-RVBPI,Male,64,Turlock,20,"Offer D",Yes,12.6,Yes,Month-to-Month,1650.6,Stayed,,
+0388-EOPEX,Female,28,Riverside,2,None,Yes,9.79,Yes,Month-to-Month,158.98,Churned,Attitude,"Attitude of support person"
+0390-DCFDQ,Female,76,"Los Alamitos",1,"Offer E",Yes,15.28,Yes,Month-to-Month,85.73,Churned,Other,"Don't know"
+0392-BZIUW,Female,44,Fresno,72,None,Yes,6.58,Yes,"Two Year",8063.56,Stayed,,
+0396-UKGAI,Male,25,Encinitas,23,"Offer D",Yes,1.58,Yes,Month-to-Month,1320.54,Stayed,,
+0396-YCHWO,Male,58,Sacramento,36,"Offer C",Yes,40.58,Yes,Month-to-Month,4935.08,Stayed,,
+0397-GZBBC,Male,70,"South Dos Palos",59,None,Yes,10.78,Yes,Month-to-Month,6202.64,Churned,Price,"Price too high"
+0401-WDBXM,Male,22,"San Jose",72,None,Yes,8.33,Yes,"Two Year",8152.01,Stayed,,
+0402-CQAJN,Female,22,"El Monte",37,None,Yes,24.04,Yes,Month-to-Month,4434.83,Churned,Dissatisfaction,"Lack of self-service on Website"
+0404-SWRVG,Male,21,"La Habra",3,"Offer E",Yes,14.6,Yes,Month-to-Month,264.61,Churned,Dissatisfaction,"Product dissatisfaction"
+0406-BPDVR,Female,75,Visalia,54,"Offer B",Yes,33.49,Yes,"One Year",7181.56,Churned,Price,"Lack of affordable download/upload speed"
+0407-BDJKB,Male,59,"San Francisco",60,None,Yes,35.22,Yes,Month-to-Month,7856.1,Churned,Dissatisfaction,"Service dissatisfaction"
+0409-WTMPL,Female,35,Whittier,58,"Offer B",Yes,37.95,Yes,"One Year",8727.75,Stayed,,
+0410-IPFTY,Female,64,"Long Beach",31,"Offer C",Yes,12.03,Yes,Month-to-Month,3035.71,Stayed,,
+0411-EZJZE,Female,62,Stockton,3,None,Yes,20.1,Yes,Month-to-Month,300.8,Joined,,
+0412-UCCNP,Male,20,Essex,55,None,Yes,12.28,Yes,"Two Year",3851.25,Stayed,,
+0415-MOSGF,Female,58,"Los Gatos",1,"Offer E",Yes,26.53,Yes,Month-to-Month,70.93,Churned,Attitude,"Attitude of support person"
+0419-YAAPX,Male,44,"Grass Valley",49,"Offer B",Yes,14.21,Yes,Month-to-Month,4994.24,Stayed,,
+0420-HLGXF,Female,72,Visalia,39,None,Yes,10.03,Yes,"Two Year",4427.17,Stayed,,
+0420-TXVSG,Male,43,"San Jose",66,"Offer A",Yes,37.71,Yes,"Two Year",6917.31,Stayed,,
+0422-UXFAP,Female,34,"San Diego",51,"Offer B",Yes,47.72,Yes,"One Year",7511.27,Stayed,,
+0423-UDIJQ,Male,74,Snelling,9,None,Yes,7.11,Yes,"Two Year",511.89,Stayed,,
+0428-IKYCP,Male,56,Sonora,22,None,Yes,48.68,Yes,Month-to-Month,2921.61,Stayed,,
+0430-IHCDJ,Male,40,Highland,15,None,Yes,11.75,Yes,Month-to-Month,925.5,Stayed,,
+0431-APWVY,Female,37,Novato,28,None,Yes,18.31,Yes,"One Year",3111.63,Churned,Dissatisfaction,"Poor expertise of online support"
+0432-CAJZV,Male,47,Temecula,3,None,Yes,5.39,Yes,Month-to-Month,253.82,Joined,,
+0434-CSFON,Female,34,"Los Angeles",47,"Offer B",Yes,38.15,Yes,Month-to-Month,6500.15,Stayed,,
+0436-TWFFZ,Female,21,"Long Beach",67,"Offer A",Yes,8.71,Yes,"Two Year",6296.46,Stayed,,
+0439-IFYUN,Female,78,Escondido,18,"Offer D",Yes,21.09,Yes,Month-to-Month,1694.22,Stayed,,
+0440-EKDCF,Male,47,Herlong,62,"Offer B",Yes,33.7,Yes,"Two Year",5842.6,Stayed,,
+0440-MOGPM,Female,51,Petaluma,41,None,Yes,6.16,Yes,"One Year",3516.46,Stayed,,
+0440-QEXBZ,Female,64,Mojave,44,"Offer B",Yes,18.42,Yes,Month-to-Month,2949.58,Stayed,,
+0440-UEDAI,Female,59,Callahan,53,None,Yes,33.88,Yes,"One Year",6838.39,Stayed,,
+0442-ZXKVS,Female,79,Denair,54,"Offer B",Yes,43.71,Yes,"One Year",8791.39,Stayed,,
+0447-RXSGD,Male,39,Monterey,24,"Offer C",Yes,25.68,Yes,Month-to-Month,3021.17,Stayed,,
+0454-OKRCT,Male,32,"Palo Alto",33,"Offer C",Yes,34.85,Yes,"Two Year",3801.15,Stayed,,
+0455-ENTCR,Male,58,Jamestown,66,None,Yes,42.85,Yes,"Two Year",8366.45,Stayed,,
+0455-XFASS,Female,61,Campbell,3,None,Yes,1.67,Yes,Month-to-Month,171.41,Joined,,
+0459-SPZHJ,Male,19,"Garden Grove",63,None,Yes,13.45,Yes,"Two Year",6282.35,Stayed,,
+0461-CVKMU,Female,45,"Oak Run",23,None,Yes,38.81,Yes,Month-to-Month,2792.88,Churned,Attitude,"Attitude of support person"
+0463-ZSDNT,Male,23,Escondido,10,None,Yes,30.3,Yes,Month-to-Month,836.25,Stayed,,
+0468-YRPXN,Male,62,Lomita,29,"Offer C",Yes,48.2,Yes,Month-to-Month,4204.9,Stayed,,
+0471-ARVMX,Female,70,Kelseyville,62,"Offer B",Yes,22.74,Yes,"One Year",7722.78,Stayed,,
+0471-LVHGK,Male,34,Orangevale,41,None,Yes,15.91,Yes,"One Year",3653.51,Churned,Competitor,"Competitor offered higher download speeds"
+0475-RIJEP,Male,47,Pinecrest,43,"Offer B",Yes,49.13,Yes,Month-to-Month,5478.44,Churned,Price,"Lack of affordable download/upload speed"
+0479-HMSWA,Female,63,"San Clemente",26,"Offer C",Yes,2.48,Yes,"Two Year",2779.78,Stayed,,
+0480-BIXDE,Female,58,"Beale Afb",19,"Offer D",Yes,10.68,Yes,Month-to-Month,1945.97,Stayed,,
+0481-SUMCB,Female,74,Greenville,45,"Offer B",Yes,34.12,Yes,"One Year",6270.75,Stayed,,
+0484-FFVBJ,Male,43,"Fort Bragg",32,None,Yes,15.52,Yes,"One Year",2507.59,Stayed,,
+0486-HECZI,Male,37,Torrance,55,None,Yes,49.06,Yes,Month-to-Month,7937.2,Churned,Price,"Long distance charges"
+0487-CRLZF,Female,58,Poway,49,"Offer B",Yes,7.51,Yes,"Two Year",4089.89,Stayed,,
+0487-RPVUM,Male,49,"Mount Hermon",61,None,Yes,15.15,Yes,Month-to-Month,6867.8,Stayed,,
+0488-GSLFR,Female,41,Taylorsville,1,None,Yes,8.31,Yes,Month-to-Month,77.81,Churned,Dissatisfaction,"Product dissatisfaction"
+0489-WMEMG,Female,61,Korbel,23,"Offer D",Yes,25.85,Yes,"One Year",1713.9,Stayed,,
+0491-KAPQG,Male,28,"Pine Valley",21,"Offer D",Yes,28.54,Yes,Month-to-Month,2158.04,Stayed,,
+0495-RVCBF,Female,39,"Santa Rosa",1,None,Yes,33.88,Yes,Month-to-Month,113.58,Churned,Dissatisfaction,"Poor expertise of online support"
+0495-ZBNGW,Male,78,"Loma Mar",5,None,Yes,6.66,Yes,Month-to-Month,397.25,Churned,Competitor,"Competitor offered more data"
+0496-AHOOK,Male,61,Bangor,24,"Offer C",Yes,32.86,Yes,"One Year",2501.54,Stayed,,
+0504-HHAPI,Female,72,Guinda,27,None,Yes,16.94,Yes,Month-to-Month,2925.13,Churned,Other,"Don't know"
+0506-LVNGN,Female,78,"Rancho Cordova",5,None,Yes,42.33,Yes,Month-to-Month,561.3,Churned,Competitor,"Competitor had better devices"
+0508-OOLTO,Female,33,"Fort Irwin",2,None,Yes,29.03,Yes,Month-to-Month,193.81,Joined,,
+0511-JTEOY,Female,41,"Canyon Dam",1,"Offer E",Yes,10.19,Yes,Month-to-Month,81.29,Churned,Competitor,"Competitor made better offer"
+0512-FLFDW,Female,74,"Palomar Mountain",60,None,Yes,27.68,Yes,"One Year",7689.8,Stayed,,
+0513-RBGPE,Male,57,"Rancho Santa Fe",37,None,Yes,4.5,Yes,"Two Year",2428.28,Stayed,,
+0515-YPMCW,Male,42,"San Jose",1,None,Yes,42.87,Yes,Month-to-Month,123.32,Churned,Competitor,"Competitor had better devices"
+0516-OOHAR,Male,39,Topanga,28,None,Yes,7.73,Yes,"One Year",3015.44,Stayed,,
+0516-UXRMT,Female,27,Oxnard,62,None,Yes,23.88,Yes,"One Year",7222.15,Stayed,,
+0516-WJVXC,Female,21,Sacramento,5,None,Yes,3.61,Yes,Month-to-Month,326.3,Churned,Dissatisfaction,"Network reliability"
+0519-XUZJU,Female,56,Felton,1,None,Yes,26,Yes,Month-to-Month,96.75,Churned,Dissatisfaction,"Service dissatisfaction"
+0520-FDVVT,Male,26,Lewiston,35,None,Yes,39.84,Yes,"One Year",5020.5,Churned,Price,"Price too high"
+0524-IAVZO,Female,25,Anza,30,"Offer C",Yes,4.82,Yes,Month-to-Month,2768.85,Churned,Other,"Don't know"
+0529-ONKER,Male,70,"Forest Ranch",15,"Offer D",Yes,46.38,Yes,Month-to-Month,1842.35,Churned,Attitude,"Attitude of support person"
+0530-IJVDB,Male,36,Jamul,70,"Offer A",Yes,26.67,Yes,"Two Year",9749.4,Stayed,,
+0531-XBKMM,Male,37,Azusa,66,None,Yes,32.12,Yes,"Two Year",6498.82,Stayed,,
+0531-ZZJWQ,Male,68,Fallbrook,55,None,Yes,42.9,Yes,"Two Year",6411.9,Stayed,,
+0533-BNWKF,Female,66,"San Diego",55,"Offer B",Yes,42.82,Yes,Month-to-Month,7319.8,Churned,Competitor,"Competitor made better offer"
+0533-UCAAU,Male,72,"Montgomery Creek",57,None,Yes,48.16,Yes,"One Year",6885.22,Stayed,,
+0536-ACXIP,Female,34,Lodi,72,None,Yes,44.2,Yes,"Two Year",11347.5,Stayed,,
+0536-ESJEP,Male,48,"Rough And Ready",54,None,Yes,14.18,Yes,"Two Year",4957.17,Stayed,,
+0537-QYZZN,Male,66,Petaluma,24,"Offer C",Yes,4.06,Yes,"Two Year",1955.19,Stayed,,
+0541-FITGH,Female,59,Hornitos,2,"Offer E",Yes,48.39,Yes,Month-to-Month,209.88,Joined,,
+0549-CYCQN,Male,69,Flournoy,51,None,Yes,24.92,Yes,"One Year",5228.89,Stayed,,
+0550-DCXLH,Male,64,Thermal,13,None,Yes,40.99,Yes,Month-to-Month,1415.4,Stayed,,
+0556-FJEGU,Male,26,Lafayette,58,"Offer B",Yes,47.47,Yes,"Two Year",6802.21,Stayed,,
+0557-ASKVU,Female,43,"Beverly Hills",18,"Offer D",Yes,44.97,Yes,"One Year",1766.56,Stayed,,
+0562-FGDCR,Female,61,Whitmore,72,None,Yes,21.84,Yes,"Two Year",7003.13,Stayed,,
+0564-JJHGS,Male,45,Guerneville,9,None,Yes,19.22,Yes,Month-to-Month,1002.08,Churned,Dissatisfaction,"Limited range of services"
+0564-MUUQK,Female,28,"Imperial Beach",20,None,Yes,38.71,Yes,Month-to-Month,2690.4,Stayed,,
+0565-IYCGT,Male,51,"San Diego",69,"Offer A",Yes,29.38,Yes,"One Year",7383.67,Churned,Competitor,"Competitor made better offer"
+0565-JUPYD,Male,26,Benicia,63,None,Yes,21.45,Yes,"One Year",7942.15,Stayed,,
+0567-GGCAC,Female,38,Biola,7,None,Yes,15.84,Yes,Month-to-Month,549.78,Stayed,,
+0570-BFQHT,Female,38,Anderson,9,None,Yes,32.57,Yes,Month-to-Month,944.75,Stayed,,
+0572-ZJKLT,Female,32,Chester,46,"Offer B",Yes,49.26,Yes,"Two Year",6886.81,Stayed,,
+0575-CUQOV,Male,76,Hilmar,60,"Offer B",Yes,17.05,Yes,"One Year",6890,Stayed,,
+0576-WNXXC,Male,70,Parlier,27,None,Yes,39.49,Yes,Month-to-Month,3576.43,Churned,Dissatisfaction,"Service dissatisfaction"
+0577-WHMEV,Female,19,"San Jose",16,"Offer D",Yes,27.83,Yes,Month-to-Month,1820.18,Stayed,,
+0578-SKVMF,Female,23,Seeley,22,None,Yes,4.01,Yes,Month-to-Month,1934.12,Churned,Competitor,"Competitor had better devices"
+0580-PIQHM,Female,21,Riverside,41,"Offer B",Yes,14.73,Yes,"One Year",4534.48,Stayed,,
+0581-BXBUB,Female,76,"Penn Valley",4,None,Yes,35.67,Yes,"Two Year",460.43,Stayed,,
+0581-MDMPW,Female,63,"San Jose",24,"Offer C",Yes,44.09,Yes,Month-to-Month,3130.91,Stayed,,
+0584-BJQGZ,Female,19,Taylorsville,25,None,Yes,28.05,Yes,Month-to-Month,2539.15,Stayed,,
+0585-EGDDA,Male,41,Etna,40,"Offer B",Yes,39.22,Yes,Month-to-Month,4695.81,Stayed,,
+0587-DMGBH,Female,48,Willows,8,None,Yes,37.79,Yes,Month-to-Month,664.86,Churned,Competitor,"Competitor offered higher download speeds"
+0595-ITUDF,Male,21,Fairfax,64,None,Yes,34.58,Yes,Month-to-Month,8173.62,Stayed,,
+0596-BQCEQ,Female,32,Hydesville,62,None,Yes,48.58,Yes,Month-to-Month,9295.26,Churned,Competitor,"Competitor had better devices"
+0599-XNYDO,Female,51,Graton,20,None,Yes,43.49,Yes,Month-to-Month,2410.15,Stayed,,
+0602-DDUML,Female,21,Fallbrook,57,None,Yes,36.14,Yes,"Two Year",5954.38,Stayed,,
+0603-OLQDC,Male,41,Whittier,12,"Offer D",Yes,27.07,Yes,Month-to-Month,1162.34,Stayed,,
+0604-THJFP,Female,40,"Castro Valley",59,"Offer B",Yes,8.28,Yes,"Two Year",5030.87,Stayed,,
+0607-MVMGC,Male,33,Ranchita,45,None,Yes,39.82,Yes,"One Year",5392.55,Stayed,,
+0611-DFXKO,Male,35,Comptche,20,"Offer D",Yes,18.05,Yes,Month-to-Month,2181.45,Churned,Dissatisfaction,"Service dissatisfaction"
+0617-FHSGK,Male,62,"Rancho Cordova",49,None,Yes,19.08,Yes,Month-to-Month,4633.22,Churned,Price,"Extra data charges"
+0618-XWMSS,Male,60,Wasco,28,"Offer C",Yes,44.28,Yes,Month-to-Month,3308.39,Churned,Price,"Long distance charges"
+0619-OLYUR,Male,32,"Garden Grove",72,None,Yes,47.83,Yes,"Two Year",11514.81,Stayed,,
+0620-DLSLK,Female,47,Pasadena,13,None,Yes,34.18,Yes,Month-to-Month,1473.24,Stayed,,
+0621-HJWXJ,Female,54,Irvine,63,"Offer B",Yes,21.15,Yes,Month-to-Month,6361.5,Stayed,,
+0621-TWIEM,Male,28,Newhall,10,"Offer D",Yes,34.44,Yes,Month-to-Month,747,Churned,Attitude,"Attitude of support person"
+0623-EJQEG,Male,50,Murphys,65,"Offer B",Yes,2.72,Yes,"One Year",6276.05,Stayed,,
+0623-GDISB,Female,63,"San Clemente",1,None,Yes,16.42,Yes,Month-to-Month,64.87,Joined,,
+0628-CNQRM,Male,49,Temecula,22,None,Yes,19.8,Yes,"One Year",1979.65,Churned,Other,"Don't know"
+0634-SZPQA,Female,64,"San Anselmo",23,None,Yes,3.55,Yes,Month-to-Month,2224.07,Churned,Competitor,"Competitor offered higher download speeds"
+0635-WKOLD,Male,33,Ceres,40,"Offer B",Yes,23.74,Yes,"One Year",3871.35,Stayed,,
+0637-KVDLV,Male,30,"Elk Grove",2,"Offer E",Yes,17.22,Yes,Month-to-Month,196.89,Churned,Other,"Don't know"
+0637-UBJRP,Male,40,Wilton,13,"Offer D",Yes,29.92,Yes,Month-to-Month,1460.29,Churned,Competitor,"Competitor offered higher download speeds"
+0637-YLETY,Female,39,"Douglas City",16,"Offer D",Yes,18.99,Yes,Month-to-Month,1859.49,Churned,Attitude,"Attitude of service provider"
+0639-TSIQW,Female,28,"White Water",67,"Offer A",Yes,37.5,Yes,Month-to-Month,9398.75,Churned,Competitor,"Competitor offered more data"
+0641-EVBOJ,Male,61,Coarsegold,3,None,Yes,44.97,Yes,Month-to-Month,369.31,Joined,,
+0643-OKLRP,Female,73,Azusa,47,None,Yes,38.31,Yes,Month-to-Month,5716.42,Churned,Dissatisfaction,"Network reliability"
+0644-OQMDK,Male,69,Merced,4,"Offer E",Yes,6.18,Yes,Month-to-Month,318.57,Stayed,,
+0650-BWOZN,Female,71,Aguanga,18,None,Yes,7.51,Yes,"Two Year",1494.63,Stayed,,
+0654-HMSHN,Male,45,Mojave,21,"Offer D",Yes,42.65,Yes,Month-to-Month,3053.6,Churned,Attitude,"Attitude of support person"
+0654-PQKDW,Female,58,Pescadero,62,None,Yes,42.05,Yes,"One Year",6870.55,Stayed,,
+0655-RBDUG,Male,32,Alviso,7,"Offer E",Yes,9.25,Yes,Month-to-Month,777.75,Churned,Competitor,"Competitor had better devices"
+0655-YDGFJ,Male,34,"Palm Springs",29,"Offer C",Yes,10.06,Yes,Month-to-Month,1615.44,Stayed,,
+0657-DOGUM,Female,35,"Rancho Cucamonga",48,"Offer B",Yes,44.72,Yes,"One Year",5231.81,Stayed,,
+0661-KBKPA,Male,43,Seaside,53,None,Yes,31.86,Yes,"One Year",5631.03,Stayed,,
+0661-WCQNQ,Male,56,Orleans,22,"Offer D",Yes,7.68,Yes,"One Year",1561.16,Stayed,,
+0665-XHDJU,Male,21,"Monte Rio",72,None,Yes,34.95,Yes,"Two Year",9802.1,Stayed,,
+0666-UXTJO,Male,80,"Morongo Valley",34,"Offer C",Yes,29.66,Yes,Month-to-Month,3882.89,Stayed,,
+0667-NSRGI,Female,45,Lodi,48,None,Yes,17.03,Yes,"One Year",4253.04,Stayed,,
+0670-ANMUU,Male,47,"Chino Hills",71,None,Yes,16.57,Yes,"One Year",7864.32,Stayed,,
+0674-DGMAQ,Male,78,Elk,32,"Offer C",Yes,43.54,Yes,"Two Year",4364.08,Stayed,,
+0674-EYYZV,Female,41,"Los Angeles",1,None,Yes,36.33,Yes,Month-to-Month,90.98,Joined,,
+0674-GCDXG,Male,20,Bakersfield,63,"Offer B",Yes,42.59,Yes,"Two Year",7162.37,Stayed,,
+0675-NCDYU,Female,61,Placentia,72,"Offer A",Yes,28.86,Yes,"Two Year",10621.17,Stayed,,
+0678-RLHVP,Female,33,"Redwood City",53,"Offer B",Yes,12.92,Yes,"Two Year",6367.01,Stayed,,
+0679-IDSTG,Female,73,Branscomb,1,None,Yes,37.3,Yes,Month-to-Month,106.55,Churned,Competitor,"Competitor had better devices"
+0679-TDGAK,Male,29,Fresno,50,None,Yes,31.83,Yes,"One Year",5717.1,Stayed,,
+0680-DFNNY,Male,62,Winters,15,None,Yes,40.7,Yes,Month-to-Month,2114.55,Churned,Competitor,"Competitor offered more data"
+0682-USIXD,Female,40,"Diamond Bar",21,None,Yes,14.81,Yes,Month-to-Month,2129.91,Stayed,,
+0684-AOSIH,Male,42,"Oro Grande",1,None,Yes,12.04,Yes,Month-to-Month,107.04,Churned,Dissatisfaction,"Network reliability"
+0685-MLYYM,Female,74,"Buena Park",2,"Offer E",Yes,9.86,Yes,Month-to-Month,174.57,Churned,Price,"Long distance charges"
+0687-ZVTHB,Male,24,Richmond,65,"Offer B",Yes,26.75,Yes,"One Year",6378.37,Churned,Competitor,"Competitor offered more data"
+0689-DSXGL,Female,61,Yreka,52,"Offer B",Yes,16.87,Yes,Month-to-Month,5310.54,Stayed,,
+0689-NKYLF,Male,42,"Los Angeles",13,"Offer D",Yes,35.4,Yes,Month-to-Month,1520.8,Churned,Attitude,"Attitude of support person"
+0691-IFBQW,Female,65,Biola,46,None,Yes,2.37,Yes,"One Year",4983.82,Churned,Competitor,"Competitor made better offer"
+0691-JVSYA,Female,24,Pasadena,53,None,Yes,40.62,Yes,"One Year",7134.51,Churned,Competitor,"Competitor had better devices"
+0691-NIKRI,Female,41,Elverta,40,"Offer B",Yes,16.73,Yes,"One Year",5004.4,Stayed,,
+0696-UKTOX,Male,64,"North Hills",23,None,Yes,8.4,Yes,Month-to-Month,1545.65,Stayed,,
+0697-ZMSWS,Male,19,"Los Angeles",4,None,Yes,6.91,Yes,Month-to-Month,366.54,Churned,Dissatisfaction,"Limited range of services"
+0701-RFGFI,Female,56,"La Mesa",49,"Offer B",Yes,8.18,Yes,Month-to-Month,5014.77,Stayed,,
+0701-TJSEF,Male,45,"Santa Barbara",9,"Offer E",Yes,32.31,Yes,Month-to-Month,867.74,Stayed,,
+0702-PGIBZ,Male,28,"Dutch Flat",4,"Offer E",Yes,26.16,Yes,Month-to-Month,467.71,Churned,Competitor,"Competitor made better offer"
+0707-HOVVN,Female,79,"Mi Wuk Village",70,"Offer A",Yes,47.27,Yes,"Two Year",8521.55,Stayed,,
+0708-LGSMF,Male,56,Milpitas,13,"Offer D",Yes,14.32,Yes,Month-to-Month,1088.41,Stayed,,
+0708-SJDIS,Female,32,"West Hollywood",34,"Offer C",Yes,45.28,Yes,Month-to-Month,3697.02,Stayed,,
+0709-TVGUR,Female,70,Stockton,9,None,Yes,17.56,Yes,Month-to-Month,747.69,Churned,Competitor,"Competitor had better devices"
+0716-BQNDX,Male,77,Madera,57,None,Yes,2.21,Yes,"Two Year",5751.52,Stayed,,
+0719-SYFRB,Female,52,Norco,12,"Offer D",Yes,36.24,Yes,Month-to-Month,1148.63,Churned,Competitor,"Competitor offered higher download speeds"
+0722-SVSFK,Female,45,"Half Moon Bay",7,None,Yes,39.02,Yes,Month-to-Month,988.14,Stayed,,
+0722-TROQR,Female,68,Davis,4,None,Yes,26.23,Yes,Month-to-Month,426.67,Churned,Price,"Lack of affordable download/upload speed"
+0723-DRCLG,Female,73,Fallbrook,1,None,Yes,31.27,Yes,Month-to-Month,115.72,Churned,Other,"Don't know"
+0723-FDLAY,Male,54,"Gold Run",44,"Offer B",Yes,49.57,Yes,"One Year",5985.23,Stayed,,
+0725-CXOTM,Female,29,Manteca,36,None,Yes,44.7,Yes,"One Year",4957.3,Stayed,,
+0727-BMPLR,Female,66,Fresno,55,None,Yes,37.38,Yes,"One Year",7665.2,Churned,Competitor,"Competitor offered higher download speeds"
+0727-BNRLG,Male,41,"Los Angeles",69,"Offer A",Yes,49.35,Yes,"Two Year",10148.7,Stayed,,
+0727-IWKVK,Male,35,Yermo,9,"Offer E",Yes,19.18,Yes,Month-to-Month,914.32,Churned,Price,"Extra data charges"
+0730-BGQGF,Male,48,"Grover Beach",71,"Offer A",Yes,15.71,Yes,"Two Year",7502.71,Stayed,,
+0730-KOAVE,Male,53,"Redwood City",30,"Offer C",Yes,41.66,Yes,Month-to-Month,3929.5,Stayed,,
+0733-VUNUW,Male,43,"San Francisco",24,None,Yes,8.99,Yes,Month-to-Month,1676.31,Churned,Competitor,"Competitor had better devices"
+0734-OXWBT,Male,44,Covina,3,"Offer E",Yes,25.04,Yes,Month-to-Month,300.77,Joined,,
+0742-LAFQK,Male,52,Fullerton,72,None,Yes,28.86,Yes,"Two Year",9500.02,Stayed,,
+0742-MOABM,Male,50,Fallbrook,4,None,Yes,9.67,Yes,Month-to-Month,218.03,Churned,Competitor,"Competitor made better offer"
+0742-NXBGR,Female,64,Adin,1,"Offer E",Yes,33.41,Yes,Month-to-Month,115.71,Churned,Competitor,"Competitor had better devices"
+0743-HNPFG,Female,50,"Butte City",51,None,Yes,17.95,Yes,"One Year",4477.95,Stayed,,
+0744-BIKKF,Male,39,Mecca,72,"Offer A",Yes,11.41,Yes,"Two Year",7046.32,Stayed,,
+0744-GKNGE,Female,31,Inglewood,64,"Offer B",Yes,27.74,Yes,Month-to-Month,7102.61,Stayed,,
+0748-RDGGM,Male,38,Tarzana,70,None,Yes,39.63,Yes,"One Year",10308.75,Churned,Price,"Long distance charges"
+0750-EBAIU,Male,43,Temecula,52,"Offer B",Yes,31.31,Yes,"One Year",6366.42,Stayed,,
+0754-UKWQP,Male,63,Cool,2,None,Yes,37.43,Yes,Month-to-Month,272.56,Churned,Competitor,"Competitor had better devices"
+0757-WCUUZ,Male,29,"June Lake",54,"Offer B",Yes,36.09,Yes,"Two Year",5357.96,Stayed,,
+0771-CHWSK,Male,56,Brawley,66,"Offer A",Yes,45.57,Yes,"Two Year",7806.02,Stayed,,
+0771-WLCLA,Female,49,"Big Bear Lake",16,"Offer D",Yes,46.45,Yes,Month-to-Month,2625.75,Stayed,,
+0772-GYEQQ,Male,33,Lodi,3,"Offer E",Yes,49.4,Yes,Month-to-Month,410.25,Churned,Competitor,"Competitor offered more data"
+0774-IFUVM,Male,19,Stockton,11,None,Yes,16.71,Yes,Month-to-Month,907.16,Stayed,,
+0781-LKXBR,Male,65,"San Francisco",9,None,Yes,48.71,Yes,Month-to-Month,1356.99,Churned,Competitor,"Competitor had better devices"
+0786-IVLAW,Female,72,"Valley Village",66,None,Yes,3.57,Yes,"One Year",7474.22,Stayed,,
+0793-TWELN,Female,27,"Los Angeles",4,"Offer E",Yes,6.5,Yes,Month-to-Month,345.85,Stayed,,
+0795-GMVQO,Male,36,"San Diego",67,None,Yes,23.13,Yes,"One Year",8882.11,Stayed,,
+0795-LAFGP,Male,25,Fullerton,71,None,Yes,3.57,Yes,"Two Year",6921.52,Stayed,,
+0799-DDIHE,Female,24,Grenada,15,"Offer D",Yes,24.27,Yes,Month-to-Month,1003.5,Stayed,,
+0807-ZABDG,Female,43,Woodland,3,"Offer E",Yes,26.04,Yes,Month-to-Month,232.77,Churned,Competitor,"Competitor offered higher download speeds"
+0810-BDHAW,Female,54,Chowchilla,24,None,Yes,31.62,Yes,"One Year",2721.28,Stayed,,
+0810-DHDBD,Female,31,"Rohnert Park",52,None,Yes,21.38,Yes,"One Year",4989.41,Stayed,,
+0812-WUPTB,Male,65,"Corona Del Mar",1,"Offer E",Yes,49.6,Yes,Month-to-Month,120.45,Churned,Price,"Long distance charges"
+0813-TAXXS,Male,48,Alderpoint,55,None,Yes,26.3,Yes,"Two Year",5769.85,Stayed,,
+0815-MFZGM,Female,54,"Morgan Hill",42,None,Yes,1.31,Yes,"Two Year",4190.02,Stayed,,
+0817-HSUSE,Male,26,Altadena,1,None,Yes,5.63,Yes,Month-to-Month,81.13,Joined,,
+0818-OCPZO,Male,80,"Los Angeles",27,None,Yes,42.91,Yes,Month-to-Month,3280.62,Churned,Competitor,"Competitor offered more data"
+0820-FNRNX,Male,48,Lafayette,17,"Offer D",Yes,29.87,Yes,Month-to-Month,1584.84,Stayed,,
+0822-QGCXA,Female,76,"Los Angeles",27,"Offer C",Yes,3.43,Yes,Month-to-Month,2402.81,Stayed,,
+0824-VWDPO,Female,58,Mckinleyville,45,None,Yes,1.57,Yes,"One Year",4513.4,Stayed,,
+0829-XXPLX,Female,48,Cutler,20,None,Yes,30.52,Yes,Month-to-Month,2481.55,Stayed,,
+0835-JKADZ,Female,29,"San Francisco",71,None,Yes,41.92,Yes,"Two Year",10960.47,Stayed,,
+0839-JTCUD,Female,31,"Mission Viejo",66,None,Yes,36.36,Yes,"Two Year",8358.61,Stayed,,
+0840-DCNZE,Male,33,"Newport Beach",47,"Offer B",Yes,36.78,Yes,"One Year",5867.56,Stayed,,
+0840-DFEZH,Female,63,"Los Angeles",7,None,Yes,25.17,Yes,Month-to-Month,740.84,Stayed,,
+0842-IWYCP,Female,19,Helendale,46,None,Yes,40.32,Yes,Month-to-Month,4023.62,Stayed,,
+0843-WTBXE,Male,38,"San Diego",53,None,Yes,16.43,Yes,Month-to-Month,5388.04,Churned,Other,"Don't know"
+0848-ZGQIJ,Female,56,Saratoga,16,"Offer D",Yes,10.5,Yes,Month-to-Month,1629.15,Stayed,,
+0851-DFJKB,Female,57,Concord,15,None,Yes,30.54,Yes,Month-to-Month,1413.25,Stayed,,
+0853-NWIFK,Female,27,Woodacre,45,None,Yes,1.03,Yes,"One Year",4530.3,Stayed,,
+0853-TWRVK,Male,59,"North Hollywood",72,None,Yes,6.15,Yes,"Two Year",8024.3,Stayed,,
+0856-NAOES,Male,29,Concord,6,"Offer E",Yes,45.67,Yes,Month-to-Month,688.12,Stayed,,
+0862-PRCBS,Female,32,"San Francisco",68,None,Yes,16.09,Yes,"Two Year",8133.57,Stayed,,
+0864-FVJNJ,Female,63,Trinidad,64,"Offer B",Yes,6.83,Yes,"One Year",7679.87,Stayed,,
+0866-QLSIR,Female,53,"Garden Grove",34,"Offer C",Yes,34.41,Yes,"One Year",3258.69,Churned,Attitude,"Attitude of support person"
+0867-LDTTC,Male,51,Sacramento,5,None,Yes,45.69,Yes,Month-to-Month,621.1,Stayed,,
+0867-MKZVY,Female,26,Altadena,20,None,Yes,36.6,Yes,Month-to-Month,2290.92,Churned,Price,"Price too high"
+0868-VJRDR,Male,61,Cassel,64,None,Yes,4.76,Yes,"Two Year",6910.19,Stayed,,
+0869-PAPRP,Female,68,Pixley,26,None,Yes,46.24,Yes,"Two Year",3269.24,Stayed,,
+0870-VEMYL,Female,34,Columbia,5,"Offer E",Yes,24.32,Yes,Month-to-Month,368.44,Churned,Competitor,"Competitor offered higher download speeds"
+0871-URUWO,Male,36,"Sheep Ranch",13,None,Yes,30.55,Yes,Month-to-Month,1756.15,Churned,Competitor,"Competitor had better devices"
+0872-CASZJ,Male,30,"Hamilton City",59,"Offer B",Yes,20.5,Yes,"One Year",5306.4,Stayed,,
+0872-JCPIB,Male,47,Pinecrest,17,"Offer D",Yes,47.45,Yes,Month-to-Month,1917.85,Stayed,,
+0872-NXJYS,Female,40,"West Hollywood",9,None,Yes,45.41,Yes,Month-to-Month,1132.09,Churned,Competitor,"Competitor offered more data"
+0875-CABNR,Female,70,"San Luis Obispo",10,None,Yes,16.85,Yes,Month-to-Month,1034.05,Churned,Attitude,"Attitude of support person"
+0876-WDUUZ,Female,62,"Pine Grove",5,"Offer E",Yes,43.51,Yes,Month-to-Month,643.45,Churned,Price,"Long distance charges"
+0877-SDMBN,Female,20,"San Diego",54,None,Yes,43.47,Yes,"One Year",7986.43,Churned,Competitor,"Competitor made better offer"
+0880-FVFWF,Male,32,Livermore,56,"Offer B",Yes,37.15,Yes,Month-to-Month,7002.8,Stayed,,
+0880-TKATG,Male,21,"Lucerne Valley",4,"Offer E",Yes,9.56,Yes,Month-to-Month,424.14,Churned,Competitor,"Competitor had better devices"
+0885-HMGPY,Male,55,Honeydew,62,"Offer B",Yes,41.13,Yes,"Two Year",6787.56,Stayed,,
+0886-QGENL,Female,72,"San Diego",27,None,Yes,45.82,Yes,Month-to-Month,3991.59,Churned,Attitude,"Attitude of service provider"
+0887-HJGAR,Male,57,Coalinga,1,"Offer E",Yes,5.55,Yes,Month-to-Month,51.25,Churned,Competitor,"Competitor offered higher download speeds"
+0887-WBJVH,Female,29,Cressey,53,"Offer B",Yes,38.35,Yes,"One Year",6904.75,Stayed,,
+0895-DQHEW,Male,47,Burney,54,None,Yes,35.46,Yes,Month-to-Month,7181.54,Churned,Competitor,"Competitor offered more data"
+0895-LMRSF,Male,34,"Imperial Beach",23,None,Yes,46.4,Yes,"One Year",2707,Stayed,,
+0897-FEGMU,Female,43,"Los Angeles",11,"Offer D",Yes,31.08,Yes,Month-to-Month,1398.83,Churned,Dissatisfaction,"Network reliability"
+0898-XCGTF,Male,46,"Los Angeles",61,None,Yes,21.96,Yes,"One Year",7013.26,Stayed,,
+0899-LIIBW,Male,21,"Forks Of Salmon",34,None,Yes,33.55,Yes,Month-to-Month,4668,Stayed,,
+0899-WZRSD,Male,31,"Marina Del Rey",56,None,Yes,37.99,Yes,Month-to-Month,7921.89,Stayed,,
+0906-QVPMS,Male,29,Monterey,72,"Offer A",Yes,35.71,Yes,"Two Year",10920.57,Stayed,,
+0907-HQNTS,Female,74,Pittsburg,70,"Offer A",Yes,46.2,Yes,"Two Year",11221.6,Stayed,,
+0909-SELIE,Male,53,"Clearlake Oaks",61,None,Yes,43.48,Yes,"Two Year",7495.96,Stayed,,
+0913-XWSCN,Male,29,"Sun City",55,"Offer B",Yes,41.89,Yes,Month-to-Month,7017.35,Stayed,,
+0916-KNFAJ,Male,37,"San Jose",61,"Offer B",Yes,4.69,Yes,"Two Year",4512.79,Stayed,,
+0916-QOFDP,Female,79,Randsburg,14,None,Yes,14.39,Yes,"Two Year",1547.76,Stayed,,
+0917-EZOLA,Male,66,Lakewood,72,None,Yes,6.03,Yes,"Two Year",8124.11,Churned,Price,"Extra data charges"
+0921-OHLVP,Male,35,Paradise,22,"Offer D",Yes,11.46,Yes,Month-to-Month,2051.42,Stayed,,
+0923-PNFUB,Female,55,"Westlake Village",3,"Offer E",Yes,46.36,Yes,Month-to-Month,386.33,Churned,Attitude,"Attitude of support person"
+0924-BJCRC,Female,70,Felton,60,"Offer B",Yes,24.68,Yes,"Two Year",6785.4,Stayed,,
+0925-VYDLG,Female,40,Ludlow,3,None,Yes,17.87,Yes,Month-to-Month,295.61,Churned,Attitude,"Attitude of service provider"
+0927-LCSMG,Male,23,"San Jose",7,"Offer E",Yes,21.58,Yes,Month-to-Month,705.61,Churned,Competitor,"Competitor offered more data"
+0928-XUTSN,Female,22,Brawley,13,None,Yes,44.99,Yes,Month-to-Month,1571.68,Stayed,,
+0929-HYQEW,Male,20,Oakland,3,None,Yes,17.42,Yes,Month-to-Month,213.11,Joined,,
+0929-PECLO,Female,74,Klamath,63,"Offer B",Yes,41.8,Yes,"Two Year",8172.2,Stayed,,
+0930-EHUZA,Female,33,Calpine,36,None,Yes,44.87,Yes,"One Year",4221.67,Stayed,,
+0931-MHTEM,Female,36,"Big Bar",54,None,Yes,34.27,Yes,"One Year",7150.23,Stayed,,
+0939-EREMR,Female,40,Chico,13,"Offer D",Yes,25.33,Yes,Month-to-Month,1021.02,Stayed,,
+0939-YAPAF,Female,44,"Santa Ana",35,"Offer C",Yes,10.49,Yes,Month-to-Month,3894.75,Churned,Competitor,"Competitor offered higher download speeds"
+0940-OUQEC,Male,54,Winters,10,"Offer D",Yes,17.07,Yes,Month-to-Month,971.08,Churned,Competitor,"Competitor offered more data"
+0942-KOWSM,Female,24,Hesperia,30,"Offer C",Yes,15.94,Yes,"Two Year",2847.5,Stayed,,
+0943-ZQPXH,Male,46,Vacaville,44,None,Yes,26.25,Yes,Month-to-Month,5277.9,Stayed,,
+0945-TSONX,Female,22,Encino,47,"Offer B",Yes,29.15,Yes,"Two Year",5607.3,Stayed,,
+0946-CLJTI,Male,67,Palmdale,58,"Offer B",Yes,3.18,Yes,Month-to-Month,5997.04,Churned,Competitor,"Competitor had better devices"
+0947-IDHRQ,Female,21,"Woodland Hills",7,None,Yes,39.21,Yes,Month-to-Month,811.17,Churned,Competitor,"Competitor made better offer"
+0947-MUGVO,Male,71,Jolon,20,None,Yes,5.37,Yes,Month-to-Month,1570.9,Churned,Competitor,"Competitor had better devices"
+0952-KMEEH,Male,46,"Mountain View",13,None,Yes,3.36,Yes,Month-to-Month,1313.93,Churned,Price,"Long distance charges"
+0956-ACVZC,Female,23,Novato,54,None,Yes,48.97,Yes,"One Year",7845.28,Stayed,,
+0958-YHXGP,Female,25,Oakland,7,None,Yes,30.99,Yes,Month-to-Month,714.23,Stayed,,
+0959-WHOKV,Male,28,Covina,42,"Offer B",Yes,6.42,Yes,"One Year",4568.09,Stayed,,
+0960-HUWBM,Male,40,"Pleasant Grove",65,"Offer B",Yes,39.52,Yes,"Two Year",9268.85,Stayed,,
+0961-ZWLVI,Male,35,"Rancho Cordova",49,None,Yes,4.76,Yes,"One Year",5523.69,Stayed,,
+0963-ZBDRN,Male,45,Claremont,32,None,Yes,25.21,Yes,Month-to-Month,3990.12,Churned,Attitude,"Attitude of support person"
+0968-GSIKN,Female,23,"Thousand Palms",1,"Offer E",Yes,30.6,Yes,Month-to-Month,101.4,Churned,Competitor,"Competitor made better offer"
+0970-ETWGE,Male,38,Bodfish,1,"Offer E",Yes,42.46,Yes,Month-to-Month,132.01,Churned,Competitor,"Competitor had better devices"
+0973-KYVNF,Female,59,Castaic,72,None,Yes,43.12,Yes,"Two Year",8115.79,Stayed,,
+0975-UYDTX,Female,46,Glendale,26,"Offer C",Yes,25.63,Yes,"One Year",2931.14,Stayed,,
+0979-PHULV,Male,30,"San Diego",69,"Offer A",Yes,48.8,Yes,Month-to-Month,10374.8,Churned,Competitor,"Competitor made better offer"
+0980-FEXWF,Male,32,Fiddletown,26,"Offer C",Yes,4.62,Yes,"One Year",1405.92,Stayed,,
+0983-TATYJ,Female,42,"Santa Ynez",33,None,Yes,48.09,Yes,"One Year",3345.87,Stayed,,
+0988-AADSA,Female,40,Forbestown,72,"Offer A",Yes,9.72,Yes,"Two Year",6534.59,Stayed,,
+0988-JRWWP,Female,50,Wilseyville,3,None,Yes,41.38,Yes,Month-to-Month,264.54,Joined,,
+0991-BRRFB,Male,31,Corona,18,None,Yes,20.86,Yes,Month-to-Month,1250.28,Churned,Other,Deceased
+0993-OSGPT,Female,78,"Junction City",68,None,Yes,40.55,Yes,"One Year",6733.3,Stayed,,
+0997-YTLNY,Female,59,Escondido,19,"Offer D",Yes,4.03,Yes,Month-to-Month,1030.22,Stayed,,
+0999-QXNSA,Male,72,"Los Angeles",7,None,Yes,41.14,Yes,"Two Year",603.18,Stayed,,
+1004-NOZNR,Male,71,"Glen Ellen",56,"Offer B",Yes,10.57,Yes,"One Year",5856.22,Stayed,,
+1010-DIAUQ,Male,54,"San Diego",5,"Offer E",Yes,20.86,Yes,Month-to-Month,596.85,Churned,Competitor,"Competitor made better offer"
+1013-QCWAM,Female,73,"Garden Grove",66,"Offer A",Yes,28.06,Yes,"Two Year",8542.71,Stayed,,
+1016-DJTSV,Male,66,Santee,8,"Offer E",Yes,41.85,Yes,"Two Year",907.65,Stayed,,
+1017-FBQMM,Female,47,Acampo,62,"Offer B",Yes,15.05,Yes,"One Year",7636.6,Stayed,,
+1020-JPQOW,Female,63,Angwin,56,None,Yes,2.8,Yes,Month-to-Month,5313.4,Stayed,,
+1023-BQXZE,Male,30,Stockton,57,None,Yes,24.67,Yes,"Two Year",5723.54,Stayed,,
+1024-KPRBB,Female,63,"San Diego",38,"Offer C",Yes,30.09,Yes,"One Year",4575.42,Stayed,,
+1024-VRZHF,Male,39,"San Diego",11,"Offer D",Yes,21.58,Yes,Month-to-Month,1063.08,Churned,Competitor,"Competitor made better offer"
+1025-FALIX,Female,49,Nicolaus,26,None,Yes,37.51,Yes,Month-to-Month,2790.91,Stayed,,
+1027-LKKQQ,Female,35,Plymouth,72,None,Yes,12.96,Yes,"Two Year",6819.97,Stayed,,
+1028-FFNJK,Male,79,Burbank,30,"Offer C",Yes,48.02,Yes,Month-to-Month,4358.25,Stayed,,
+1031-IIDEO,Female,51,"Sierra City",1,"Offer E",Yes,27.05,Yes,Month-to-Month,97.9,Churned,Dissatisfaction,"Network reliability"
+1032-MAELW,Female,57,Fresno,68,None,Yes,7.47,Yes,"One Year",5841.31,Stayed,,
+1035-IPQPU,Female,77,"Parker Dam",63,None,Yes,18.14,Yes,Month-to-Month,7622.22,Stayed,,
+1036-GUDCL,Male,59,"Oak Park",60,None,Yes,39.76,Yes,Month-to-Month,7049,Stayed,,
+1041-RXHRA,Female,25,Guatay,41,None,Yes,40.78,Yes,Month-to-Month,4540.03,Churned,Attitude,"Attitude of support person"
+1042-HFUCW,Female,37,Cobb,25,"Offer C",Yes,39.9,Yes,"One Year",2248.09,Stayed,,
+1043-UXOVO,Female,25,Sacramento,71,"Offer A",Yes,28.4,Yes,"Two Year",10009.7,Stayed,,
+1047-NNCBF,Male,56,"San Jose",20,None,Yes,3.8,Yes,Month-to-Month,1551.95,Stayed,,
+1053-MXTTK,Female,63,"North Hollywood",72,None,Yes,14.46,Yes,"Two Year",8767.47,Stayed,,
+1060-ENTOF,Female,70,"Los Angeles",67,None,Yes,2.67,Yes,"One Year",7214.49,Stayed,,
+1061-PNTHC,Female,36,Encinitas,56,"Offer B",Yes,13.94,Yes,Month-to-Month,6733.64,Stayed,,
+1062-LHZOD,Male,49,"San Diego",1,None,Yes,4.99,Yes,Month-to-Month,74.89,Churned,Competitor,"Competitor made better offer"
+1063-DHQJF,Male,56,Whittier,69,"Offer A",Yes,20.32,Yes,"Two Year",7882.98,Stayed,,
+1069-XAIEM,Female,68,Mendocino,1,None,Yes,16.37,Yes,Month-to-Month,101.42,Churned,Competitor,"Competitor had better devices"
+1074-AMIOH,Female,38,"San Francisco",53,None,Yes,43.39,Yes,Month-to-Month,8234.77,Stayed,,
+1075-BGWOH,Male,69,Rosemead,16,None,Yes,15.16,Yes,Month-to-Month,1830.11,Churned,Attitude,"Attitude of support person"
+1077-HUUJM,Female,48,"Rancho Cucamonga",7,"Offer E",Yes,28.5,Yes,Month-to-Month,682.15,Stayed,,
+1084-MNSMJ,Female,63,"El Dorado",51,"Offer B",Yes,33.93,Yes,"Two Year",6152.38,Stayed,,
+1084-UQCHV,Male,35,"Angelus Oaks",1,"Offer E",Yes,27.97,Yes,Month-to-Month,97.72,Churned,Attitude,"Attitude of support person"
+1086-LXKFY,Female,46,Westwood,1,"Offer E",Yes,16.55,Yes,Month-to-Month,85.65,Churned,Other,"Don't know"
+1088-AUUZZ,Male,33,"Shaver Lake",56,"Offer B",Yes,37.58,Yes,"Two Year",6365.68,Stayed,,
+1088-CNNKB,Male,34,Campbell,63,None,Yes,34.02,Yes,"One Year",7183.46,Stayed,,
+1089-HDMKP,Male,72,Bridgeport,11,None,Yes,11.86,Yes,"Two Year",731.71,Stayed,,
+1090-ESELR,Male,47,Fawnskin,72,"Offer A",Yes,27.25,Yes,"Two Year",9573.55,Stayed,,
+1090-PYKCI,Female,19,Boonville,69,"Offer A",Yes,23.02,Yes,"One Year",8933.18,Stayed,,
+1091-SOZGA,Female,27,"La Palma",56,None,Yes,42.37,Yes,"One Year",7888.17,Stayed,,
+1092-GANHU,Male,62,Magalia,17,None,Yes,30.61,Yes,Month-to-Month,1833.92,Churned,Competitor,"Competitor offered more data"
+1095-JUDTC,Female,78,Woodbridge,47,None,Yes,14.22,Yes,Month-to-Month,5172.89,Churned,Competitor,"Competitor offered higher download speeds"
+1095-WGNGG,Female,35,"San Pedro",61,None,Yes,17.49,Yes,"Two Year",7038.14,Stayed,,
+1096-ADRUX,Female,34,Placentia,66,None,Yes,37.84,Yes,"One Year",7356.69,Stayed,,
+1097-FSPVW,Female,42,Pioneertown,42,"Offer B",Yes,32.16,Yes,Month-to-Month,3805.77,Stayed,,
+1101-SSWAG,Female,60,Berkeley,15,None,Yes,31.13,Yes,Month-to-Month,1178.1,Stayed,,
+1104-FEJAM,Male,52,Richgrove,28,None,Yes,9.31,Yes,Month-to-Month,2062.83,Stayed,,
+1104-TNLZA,Male,67,"Klamath River",28,"Offer C",Yes,24.35,Yes,Month-to-Month,3679.8,Stayed,,
+1110-KYLGQ,Female,46,Campbell,63,None,Yes,5.17,Yes,Month-to-Month,7105.81,Stayed,,
+1112-CUNAO,Female,67,Grimes,15,"Offer D",Yes,4.28,Yes,Month-to-Month,1489.15,Churned,Dissatisfaction,"Service dissatisfaction"
+1113-IUJYX,Female,59,Winnetka,14,None,Yes,5.63,Yes,"One Year",1427.72,Churned,Competitor,"Competitor offered higher download speeds"
+1114-CENIM,Male,43,"San Jacinto",54,None,Yes,6.7,Yes,Month-to-Month,3454.45,Churned,Other,"Don't know"
+1116-DXXDF,Male,38,"Porter Ranch",39,None,Yes,37.94,Yes,"Two Year",5281.36,Stayed,,
+1120-BMWUB,Female,36,"Los Angeles",16,"Offer D",Yes,6.86,Yes,Month-to-Month,983.91,Churned,Other,"Don't know"
+1121-QSIVB,Female,39,Bakersfield,44,"Offer B",Yes,5.07,Yes,"One Year",3694.18,Stayed,,
+1122-JWTJW,Male,64,Ocotillo,1,None,Yes,37.68,Yes,Month-to-Month,108.33,Churned,Competitor,"Competitor had better devices"
+1122-YJBCS,Male,36,"Los Angeles",69,"Offer A",Yes,14.18,Yes,"One Year",4782.82,Stayed,,
+1125-SNVCK,Female,78,"Los Angeles",49,None,Yes,35.65,Yes,"Two Year",3832.45,Stayed,,
+1131-SUEKT,Male,41,Hood,61,"Offer B",Yes,41.57,Yes,"One Year",8680.97,Stayed,,
+1134-YWTYF,Male,32,Fresno,27,"Offer C",Yes,41.48,Yes,Month-to-Month,2509.81,Stayed,,
+1135-HIORI,Female,48,Byron,64,"Offer B",Yes,39.37,Yes,"One Year",9786.63,Stayed,,
+1136-XGEQU,Female,53,Winchester,50,"Offer B",Yes,46.49,Yes,"One Year",6488.9,Stayed,,
+1137-DGOWI,Female,53,Coachella,30,None,Yes,17.33,Yes,"One Year",2718.8,Stayed,,
+1142-IHLOO,Female,36,"San Diego",51,"Offer B",Yes,14.37,Yes,"One Year",5208.77,Stayed,,
+1143-NMNQJ,Female,39,"Boulder Creek",2,None,Yes,14.07,Yes,Month-to-Month,197.94,Churned,Attitude,"Attitude of service provider"
+1150-FTQGN,Female,35,"Oregon House",60,"Offer B",Yes,48.04,Yes,"One Year",8694.2,Stayed,,
+1150-WFARN,Female,59,Brawley,67,None,Yes,32.15,Yes,"Two Year",9310.25,Churned,Competitor,"Competitor had better devices"
+1154-HYWWO,Male,55,"San Clemente",38,"Offer C",Yes,42.24,Yes,"One Year",4313.32,Stayed,,
+1157-BQCUW,Male,59,"Fall River Mills",1,"Offer E",Yes,30.07,Yes,Month-to-Month,105.02,Churned,Competitor,"Competitor had better devices"
+1162-ECVII,Male,66,Fresno,72,"Offer A",Yes,18.74,Yes,"Two Year",9421.78,Stayed,,
+1163-ONYEY,Male,61,Shoshone,41,"Offer B",Yes,28.55,Yes,Month-to-Month,4194.1,Stayed,,
+1163-VIPRI,Female,22,Garberville,65,"Offer B",Yes,13.25,Yes,"Two Year",8198.8,Stayed,,
+1169-SAOCL,Male,45,Brookdale,49,None,Yes,22.52,Yes,"One Year",6401.58,Stayed,,
+1169-WCVAK,Male,42,Fresno,19,"Offer D",Yes,34.05,Yes,Month-to-Month,2319.3,Stayed,,
+1170-SASML,Female,33,"Desert Hot Springs",69,"Offer A",Yes,34.49,Yes,Month-to-Month,8249.21,Stayed,,
+1172-VIYBP,Male,54,"Cathedral City",53,None,Yes,27.93,Yes,"Two Year",5166.34,Stayed,,
+1173-NOEYG,Female,25,"Santa Margarita",27,None,Yes,18.74,Yes,Month-to-Month,2929.38,Stayed,,
+1173-XZPYF,Female,60,Torrance,11,"Offer D",Yes,10.95,Yes,Month-to-Month,1110.75,Stayed,,
+1174-FGIFN,Female,44,"Squaw Valley",28,"Offer C",Yes,26.28,Yes,"One Year",3245.09,Stayed,,
+1177-XZBJL,Male,35,Palermo,53,"Offer B",Yes,37.57,Yes,"One Year",5482.76,Stayed,,
+1183-CANVH,Female,55,Escondido,23,"Offer D",Yes,1.39,Yes,"One Year",1379.12,Stayed,,
+1184-PJVDB,Male,38,"Amador City",10,None,Yes,11.3,Yes,Month-to-Month,970.2,Churned,Competitor,"Competitor had better devices"
+1187-WILMM,Male,39,Lindsay,63,None,Yes,44.55,Yes,"Two Year",8404.3,Stayed,,
+1193-RTSLK,Female,26,"Happy Camp",38,None,Yes,36.18,Yes,Month-to-Month,4608.44,Churned,Competitor,"Competitor offered higher download speeds"
+1194-HVAIF,Female,21,"Capistrano Beach",27,"Offer C",Yes,18.42,Yes,Month-to-Month,2959.89,Stayed,,
+1195-OIYEJ,Male,54,"La Puente",13,"Offer D",Yes,5.43,Yes,Month-to-Month,1286.29,Churned,Attitude,"Attitude of support person"
+1196-AMORA,Male,63,"Big Creek",7,None,Yes,38.07,Yes,Month-to-Month,786.49,Churned,Competitor,"Competitor offered more data"
+1197-BVMVG,Female,65,Friant,4,None,Yes,4.29,Yes,"Two Year",311.61,Stayed,,
+1200-TUZHR,Female,70,Posey,8,"Offer E",Yes,44.63,Yes,"Two Year",1052.79,Stayed,,
+1202-KKGFU,Female,24,Korbel,12,"Offer D",Yes,23.99,Yes,Month-to-Month,978.38,Stayed,,
+1205-WNWPJ,Female,54,Lakehead,7,"Offer E",Yes,2.24,Yes,Month-to-Month,431.63,Churned,Other,Moved
+1206-EHBDD,Female,56,Rodeo,56,"Offer B",Yes,4.24,Yes,"Two Year",4751.09,Stayed,,
+1208-DNHLN,Male,60,"Grizzly Flats",23,None,Yes,5.8,Yes,"One Year",1200.55,Churned,Other,"Don't know"
+1208-NBVFH,Male,63,Perris,20,None,Yes,13.18,Yes,Month-to-Month,1203.4,Stayed,,
+1212-GLHMD,Male,54,"San Joaquin",3,"Offer E",Yes,18.26,Yes,Month-to-Month,299.63,Joined,,
+1213-NGCUN,Female,49,"San Diego",6,"Offer E",Yes,48.89,Yes,Month-to-Month,560.69,Churned,Dissatisfaction,"Lack of self-service on Website"
+1215-FIGMP,Male,27,"Los Angeles",60,"Offer B",Yes,42.88,Yes,Month-to-Month,8023.5,Stayed,,
+1216-BGTSP,Male,30,Imperial,45,None,Yes,5.97,Yes,Month-to-Month,5233.35,Stayed,,
+1216-JWVUX,Male,51,"San Miguel",25,None,Yes,4.46,Yes,Month-to-Month,2012.55,Stayed,,
+1217-VASWC,Male,77,"Avila Beach",43,"Offer B",Yes,37.09,Yes,"One Year",5898.87,Stayed,,
+1219-NNDDO,Female,51,"Los Angeles",9,"Offer E",Yes,42.41,Yes,Month-to-Month,1045.24,Stayed,,
+1221-GHZEP,Female,45,Hemet,62,None,Yes,23.18,Yes,"Two Year",5283.91,Stayed,,
+1226-IENZN,Male,68,"Los Angeles",16,"Offer D",Yes,39.52,Yes,Month-to-Month,1850.57,Stayed,,
+1226-UDFZR,Female,26,Lafayette,2,"Offer E",Yes,21.28,Yes,Month-to-Month,157.26,Churned,Dissatisfaction,"Network reliability"
+1227-UDMZR,Female,53,Fremont,72,None,Yes,2.95,Yes,"Two Year",6850.3,Stayed,,
+1228-FZFRV,Male,37,"Los Angeles",50,None,Yes,20.88,Yes,Month-to-Month,6385.8,Churned,Price,"Extra data charges"
+1228-ZLNBX,Male,25,Farmington,21,None,Yes,3.26,Yes,Month-to-Month,1639.16,Stayed,,
+1229-RCALF,Female,37,"San Jose",64,None,Yes,46.44,Yes,"One Year",10368.31,Stayed,,
+1230-QAJDW,Male,32,"Somes Bar",3,None,Yes,42.68,Yes,Month-to-Month,337.94,Joined,,
+1236-WFCDV,Male,74,Greenbrae,14,None,Yes,11.31,Yes,Month-to-Month,1424.44,Churned,Competitor,"Competitor offered more data"
+1247-QBVSH,Female,41,"Santa Margarita",43,"Offer B",Yes,14.64,Yes,Month-to-Month,2798.92,Stayed,,
+1251-KRREG,Male,22,"North Hollywood",2,None,Yes,44.31,Yes,Month-to-Month,202.72,Churned,Price,"Price too high"
+1251-STYSZ,Female,66,Glenhaven,4,None,Yes,8.75,Yes,"One Year",368.7,Stayed,,
+1254-IZEYF,Female,74,Cutler,31,None,Yes,39.36,Yes,Month-to-Month,4406.81,Churned,Competitor,"Competitor made better offer"
+1258-YMZNM,Female,70,Montara,27,"Offer C",Yes,35.76,Yes,"One Year",3823.12,Stayed,,
+1260-TTRXI,Male,64,Planada,4,"Offer E",Yes,40.15,Yes,Month-to-Month,435.9,Churned,Price,"Long distance charges"
+1262-OPMFY,Female,46,"San Diego",9,"Offer E",Yes,31.75,Yes,Month-to-Month,941.65,Churned,Competitor,"Competitor made better offer"
+1264-BYWMS,Male,40,"La Grange",55,"Offer B",Yes,47.38,Yes,Month-to-Month,7889.85,Churned,Competitor,"Competitor offered more data"
+1265-BCFEO,Female,30,Alamo,71,"Offer A",Yes,26.58,Yes,"Two Year",7549.43,Stayed,,
+1265-HVPZB,Male,49,Winnetka,59,None,Yes,16.06,Yes,"One Year",4905.74,Stayed,,
+1265-XTECC,Female,68,Madera,68,None,Yes,1.98,Yes,"One Year",6716.54,Churned,Attitude,"Attitude of service provider"
+1265-ZFOSD,Female,33,Stonyford,64,None,Yes,16.61,Yes,"Two Year",6170,Stayed,,
+1266-NZYUI,Female,56,"Lee Vining",72,"Offer A",Yes,14.65,Yes,"Two Year",5813.6,Stayed,,
+1268-ASBGA,Female,66,"Huntington Park",16,"Offer D",Yes,9.93,Yes,Month-to-Month,1534.03,Churned,Dissatisfaction,"Limited range of services"
+1271-UODNO,Male,60,"San Jose",39,None,Yes,5.4,Yes,"Two Year",2364.64,Stayed,,
+1273-MTETI,Female,69,"Rancho Cucamonga",4,None,Yes,12.86,Yes,Month-to-Month,423.89,Churned,Other,"Don't know"
+1285-OKIPP,Male,62,"Mission Hills",1,None,Yes,23.2,Yes,Month-to-Month,103.1,Churned,Attitude,"Attitude of support person"
+1291-CUOCY,Male,55,Yorkville,72,None,Yes,4.32,Yes,"Two Year",8273.24,Stayed,,
+1297-VQDRP,Male,80,"Foothill Ranch",68,"Offer A",Yes,32.11,Yes,"One Year",9613.28,Stayed,,
+1298-PHBTI,Male,40,"Los Angeles",71,None,Yes,33.67,Yes,"Two Year",8542.97,Stayed,,
+1302-UHBDD,Male,70,"Ladera Ranch",20,"Offer D",Yes,48.46,Yes,"Two Year",2617.65,Stayed,,
+1303-SRDOK,Female,52,"Rio Dell",55,"Offer B",Yes,27.87,Yes,"Two Year",5375.45,Stayed,,
+1304-BCCFO,Male,24,Redlands,9,None,Yes,14.91,Yes,Month-to-Month,698.59,Stayed,,
+1304-NECVQ,Female,69,Somis,2,"Offer E",Yes,43.96,Yes,Month-to-Month,237.47,Churned,Competitor,"Competitor made better offer"
+1304-SEGFY,Female,57,"National City",72,"Offer A",Yes,2.56,Yes,"Two Year",7025.62,Stayed,,
+1307-ATKGB,Male,21,"Santa Clara",24,None,Yes,27.91,Yes,Month-to-Month,2856.99,Stayed,,
+1307-TVUFB,Male,66,"Santa Ynez",42,None,Yes,13.51,Yes,"One Year",3911.52,Stayed,,
+1309-BXVOQ,Male,27,"Old Station",21,"Offer D",Yes,21.83,Yes,Month-to-Month,2708.38,Churned,Price,"Long distance charges"
+1309-XGFSN,Male,72,"Pinon Hills",52,None,Yes,7.04,Yes,"One Year",4445.63,Stayed,,
+1310-QRITU,Female,40,Hinkley,18,None,Yes,38.32,Yes,Month-to-Month,1603.06,Stayed,,
+1319-YLZJG,Male,62,"Dutch Flat",12,"Offer D",Yes,39,Yes,Month-to-Month,1427.9,Stayed,,
+1320-GVNHT,Male,56,Glendale,72,None,Yes,27.88,Yes,"Two Year",9804.61,Stayed,,
+1320-HTRDR,Female,30,Fellows,3,"Offer E",Yes,47.51,Yes,Month-to-Month,363.13,Churned,Attitude,"Attitude of service provider"
+1320-REHCS,Male,75,Inglewood,52,None,Yes,23.04,Yes,"Two Year",7023.82,Stayed,,
+1323-OOEPC,Female,45,Prather,53,None,Yes,41.74,Yes,Month-to-Month,7361.72,Churned,Price,"Extra data charges"
+1324-NLTJE,Female,73,Emeryville,15,"Offer D",Yes,17.19,Yes,Month-to-Month,1014.95,Churned,Other,"Don't know"
+1325-USMEC,Male,58,Pearblossom,70,"Offer A",Yes,48,Yes,"Two Year",10304.5,Stayed,,
+1334-PDUKM,Female,48,"Palomar Mountain",68,"Offer A",Yes,9.76,Yes,"One Year",6576.63,Stayed,,
+1335-HQMKX,Female,49,"Los Angeles",72,"Offer A",Yes,46.1,Yes,"One Year",10642.35,Stayed,,
+1335-MXCSE,Male,24,Shoshone,55,None,Yes,46.61,Yes,"Two Year",5683.45,Stayed,,
+1338-CECEE,Male,28,"Mount Hermon",41,None,Yes,13.58,Yes,"One Year",3358.36,Stayed,,
+1342-JPNKI,Male,33,"Lake Forest",10,"Offer D",Yes,5.92,Yes,Month-to-Month,893.3,Churned,Other,"Don't know"
+1343-EHPYB,Male,61,"San Diego",63,None,Yes,48.95,Yes,Month-to-Month,9686.85,Churned,Competitor,"Competitor made better offer"
+1346-PJWTK,Male,63,Corona,61,None,Yes,17.73,Yes,Month-to-Month,6813.38,Stayed,,
+1346-UFHAX,Female,59,Woodbridge,13,"Offer D",Yes,33.69,Yes,Month-to-Month,1467.32,Stayed,,
+1347-KTTTA,Male,22,"Canyon Country",64,"Offer B",Yes,40.49,Yes,"One Year",9245.46,Stayed,,
+1352-HNSAW,Female,26,"Aliso Viejo",72,None,Yes,34.69,Yes,"Two Year",10858.08,Stayed,,
+1352-VHKAJ,Male,30,Berkeley,27,None,Yes,13.55,Yes,Month-to-Month,2462.95,Stayed,,
+1353-GHZOS,Male,22,"San Diego",22,"Offer D",Yes,6.03,Yes,"One Year",1507.01,Stayed,,
+1353-LJWEM,Male,23,Cottonwood,11,"Offer D",Yes,28.76,Yes,Month-to-Month,955.62,Stayed,,
+1355-KUSBG,Female,56,"Fall River Mills",7,"Offer E",Yes,9.1,Yes,Month-to-Month,413.5,Stayed,,
+1356-MKYSK,Male,44,"Castro Valley",6,"Offer E",Yes,46.59,Yes,Month-to-Month,772.84,Stayed,,
+1357-BIJKI,Male,46,"Mission Viejo",50,"Offer B",Yes,38.29,Yes,"One Year",6769.65,Stayed,,
+1357-MVDOZ,Male,25,Firebaugh,11,"Offer D",Yes,21.14,Yes,Month-to-Month,915.79,Stayed,,
+1360-JYXKQ,Female,68,"South Gate",54,None,Yes,22.05,Yes,"One Year",6627.8,Stayed,,
+1360-XFJMR,Female,50,Washington,67,None,Yes,17.72,Yes,"One Year",8531.69,Stayed,,
+1363-TXLSL,Male,80,"San Lucas",1,"Offer E",Yes,39.1,Yes,Month-to-Month,109.4,Churned,Competitor,"Competitor had better devices"
+1370-GGAWX,Female,55,"Beverly Hills",46,None,Yes,33.18,Yes,"One Year",5934.73,Stayed,,
+1371-WEPDS,Male,71,Chowchilla,40,None,Yes,28.56,Yes,"One Year",3475.7,Stayed,,
+1373-ORVIZ,Female,62,Modesto,11,"Offer D",Yes,15.69,Yes,Month-to-Month,913.39,Churned,Competitor,"Competitor had better devices"
+1374-DMZUI,Female,65,"San Ramon",4,"Offer E",Yes,49.5,Yes,Month-to-Month,622.45,Churned,Competitor,"Competitor made better offer"
+1376-HHBDV,Female,37,"Santa Monica",30,"Offer C",Yes,10.74,Yes,Month-to-Month,1858.95,Stayed,,
+1379-FRVEB,Male,31,"San Bernardino",15,"Offer D",Yes,30.22,Yes,Month-to-Month,1883.35,Stayed,,
+1384-RCUXW,Male,58,"French Gulch",16,None,Yes,34.18,Yes,Month-to-Month,1795.78,Stayed,,
+1389-CXMLU,Male,65,Downey,3,"Offer E",Yes,26.32,Yes,Month-to-Month,368.06,Churned,Competitor,"Competitor made better offer"
+1389-WNUIB,Female,21,"San Diego",20,None,Yes,15.29,Yes,"One Year",1957.25,Stayed,,
+1391-UBDAR,Male,27,Riverside,11,"Offer D",Yes,18.33,Yes,Month-to-Month,1020.08,Stayed,,
+1393-IMKZG,Female,50,Fullerton,1,None,Yes,2.7,Yes,Month-to-Month,98.55,Joined,,
+1394-SUIUH,Female,70,"Mount Shasta",44,None,Yes,44.44,Yes,"Two Year",5625.86,Stayed,,
+1396-QWFBJ,Female,32,"Rancho Santa Margarita",21,None,Yes,5.07,Yes,Month-to-Month,1672.17,Churned,Dissatisfaction,"Lack of self-service on Website"
+1399-UBQIU,Male,35,Orange,11,None,Yes,16.14,Yes,Month-to-Month,889.79,Stayed,,
+1400-MMYXY,Male,71,Alhambra,3,None,Yes,41.3,Yes,Month-to-Month,458.55,Churned,Attitude,"Attitude of service provider"
+1400-WIVLL,Male,31,Oakdale,57,None,Yes,16.78,Yes,"Two Year",6926.31,Stayed,,
+1402-PTHGN,Female,22,"Elk Grove",18,"Offer D",Yes,40.36,Yes,"One Year",1813.93,Stayed,,
+1406-PUQVY,Male,29,Madison,1,"Offer E",Yes,6.35,Yes,Month-to-Month,56.25,Joined,,
+1409-PHXTF,Male,77,"Lemon Grove",54,"Offer B",Yes,32.56,Yes,"Two Year",7835.99,Stayed,,
+1410-RSCMR,Male,47,Edwards,7,None,Yes,49.98,Yes,Month-to-Month,865.61,Stayed,,
+1414-YADCW,Male,45,"Deer Park",70,"Offer A",Yes,1.07,Yes,"Two Year",5781.1,Stayed,,
+1415-YFWLT,Female,68,"Shaver Lake",1,"Offer E",Yes,30.23,Yes,Month-to-Month,119.53,Churned,Competitor,"Competitor had better devices"
+1421-HCERK,Male,75,Lakeshore,30,None,Yes,33.48,Yes,Month-to-Month,4186.2,Stayed,,
+1422-DGUBX,Male,64,Sacramento,32,None,Yes,43.11,Yes,"One Year",3981.71,Stayed,,
+1427-VERSM,Female,62,Shasta,56,"Offer B",Yes,7,Yes,Month-to-Month,6061.5,Stayed,,
+1428-GTBJJ,Male,20,Jenner,11,None,Yes,5.4,Yes,Month-to-Month,884.15,Churned,Price,"Long distance charges"
+1428-IEDPR,Male,54,Sacramento,52,None,Yes,20.8,Yes,"Two Year",6869.15,Stayed,,
+1431-AIDJQ,Male,44,"Walnut Creek",33,"Offer C",Yes,1.62,Yes,"Two Year",2656.56,Stayed,,
+1436-ZMJAN,Female,62,Gerber,10,"Offer D",Yes,37.08,Yes,Month-to-Month,1023.95,Stayed,,
+1442-OKRJE,Male,40,"Los Angeles",66,None,Yes,39.45,Yes,"One Year",9635,Stayed,,
+1444-VVSGW,Male,51,"Los Molinos",70,"Offer A",Yes,17.17,Yes,"One Year",9180.75,Churned,Dissatisfaction,"Product dissatisfaction"
+1447-GIQMR,Male,54,"Los Angeles",1,None,Yes,2.2,Yes,Month-to-Month,71.35,Churned,Competitor,"Competitor offered more data"
+1447-PJGGA,Female,39,"San Diego",57,None,Yes,17.55,Yes,"Two Year",6465,Churned,Competitor,"Competitor made better offer"
+1448-CYWKC,Female,61,Coronado,58,None,Yes,43.01,Yes,"One Year",8685.15,Stayed,,
+1448-PWKYE,Male,48,Shafter,1,"Offer E",Yes,35.71,Yes,Month-to-Month,115.71,Churned,Competitor,"Competitor had better devices"
+1450-GALXR,Female,33,Friant,10,None,Yes,14.53,Yes,Month-to-Month,1313.55,Churned,Competitor,"Competitor had better devices"
+1450-SKCVI,Female,22,"Del Mar",56,None,Yes,35.59,Yes,Month-to-Month,6085.89,Churned,Attitude,"Attitude of support person"
+1452-KIOVK,Male,42,"Los Angeles",22,"Offer D",Yes,29.54,Yes,Month-to-Month,2599.28,Stayed,,
+1452-UZOSF,Male,31,Guerneville,72,"Offer A",Yes,7.16,Yes,"Two Year",8040.73,Stayed,,
+1452-VOQCH,Male,61,Hinkley,1,None,Yes,4.53,Yes,Month-to-Month,79.63,Joined,,
+1452-XRSJV,Female,59,Oakland,39,None,Yes,15.06,Yes,Month-to-Month,2653.34,Stayed,,
+1453-RZFON,Female,39,"Cantua Creek",1,"Offer E",Yes,9,Yes,Month-to-Month,58.9,Joined,,
+1455-ESIQH,Male,44,Oakland,1,None,Yes,16.06,Yes,Month-to-Month,105.16,Churned,Other,Moved
+1455-HFBXA,Male,61,"Bethel Island",52,"Offer B",Yes,18.02,Yes,"Two Year",5624.84,Stayed,,
+1455-UGQVH,Male,35,Acampo,10,"Offer D",Yes,1.09,Yes,Month-to-Month,1048.65,Churned,Dissatisfaction,"Lack of self-service on Website"
+1456-TWCGB,Male,34,Bakersfield,4,None,Yes,38.01,Yes,Month-to-Month,360.49,Stayed,,
+1465-LNTLJ,Male,78,"Santa Barbara",8,"Offer E",Yes,25.57,Yes,"Two Year",786.26,Stayed,,
+1465-VINDH,Female,31,"Los Angeles",10,None,Yes,32.07,Yes,Month-to-Month,1389.55,Churned,Competitor,"Competitor offered higher download speeds"
+1469-LBJQJ,Female,39,Victorville,66,"Offer A",Yes,42.23,Yes,Month-to-Month,9724.03,Stayed,,
+1470-PSXNM,Male,27,"San Diego",49,None,Yes,36.08,Yes,"One Year",6254.94,Stayed,,
+1471-GIQKQ,Female,37,Niland,1,None,Yes,44.98,Yes,Month-to-Month,94.93,Joined,,
+1472-TNCWL,Male,55,"El Sobrante",36,None,Yes,21.3,Yes,Month-to-Month,4279.3,Stayed,,
+1474-JUWSM,Female,24,Lynwood,58,None,Yes,26.99,Yes,"One Year",5537.67,Stayed,,
+1475-VWVDO,Male,55,"Dos Palos",7,"Offer E",Yes,34.59,Yes,Month-to-Month,732.68,Stayed,,
+1478-VPOAD,Female,39,Calpine,1,"Offer E",Yes,37.5,Yes,Month-to-Month,81.3,Joined,,
+1480-BKXGA,Male,75,Mentone,72,"Offer A",Yes,21.37,Yes,"Two Year",10063.54,Stayed,,
+1480-IVEVR,Male,76,Montara,35,None,Yes,4.16,Yes,"One Year",2960.85,Stayed,,
+1481-ZUWZA,Male,52,Klamath,28,None,Yes,35.52,Yes,Month-to-Month,3653.96,Churned,Dissatisfaction,"Service dissatisfaction"
+1482-OXZSY,Male,45,Freedom,30,"Offer C",Yes,17.26,Yes,Month-to-Month,3454.05,Stayed,,
+1485-YDHMM,Male,49,"San Ardo",52,None,Yes,11.3,Yes,Month-to-Month,5219.3,Stayed,,
+1488-PBLJN,Female,63,"San Diego",72,"Offer A",Yes,31.83,Yes,"Two Year",10769.46,Stayed,,
+1492-KGETH,Male,25,Ojai,70,"Offer A",Yes,35.9,Yes,"One Year",7958.95,Stayed,,
+1492-QGCLU,Male,51,"San Diego",53,None,Yes,26.84,Yes,Month-to-Month,6038.62,Stayed,,
+1498-NHTLT,Male,21,"Citrus Heights",59,"Offer B",Yes,42.37,Yes,"Two Year",7835.83,Stayed,,
+1501-SGHBW,Male,34,Guatay,2,None,Yes,19.52,Yes,Month-to-Month,120.04,Churned,Competitor,"Competitor made better offer"
+1502-XFCVR,Female,57,"Los Angeles",58,"Offer B",Yes,14.99,Yes,"One Year",7015.27,Churned,Competitor,"Competitor offered higher download speeds"
+1506-YJTYT,Male,21,Oakley,45,"Offer B",Yes,25.69,Yes,"Two Year",4527.05,Stayed,,
+1508-DFXCU,Male,32,Riverside,12,None,Yes,11.04,Yes,Month-to-Month,1044.48,Stayed,,
+1513-XNPPH,Female,36,"Los Angeles",12,"Offer D",Yes,17.46,Yes,Month-to-Month,1305.17,Churned,Dissatisfaction,"Product dissatisfaction"
+1518-OMDIK,Male,23,"Rohnert Park",33,"Offer C",Yes,48.49,Yes,Month-to-Month,3062.77,Stayed,,
+1518-VOWAV,Female,31,Fallbrook,9,"Offer E",Yes,36.43,Yes,Month-to-Month,1031.42,Churned,Competitor,"Competitor made better offer"
+1522-VVDMG,Male,25,Oakland,7,None,Yes,19.23,Yes,Month-to-Month,717.39,Churned,Dissatisfaction,"Poor expertise of online support"
+1525-LNLOJ,Male,34,Bakersfield,66,None,Yes,32.04,Yes,"Two Year",6263.72,Stayed,,
+1527-SXDPN,Male,63,"San Diego",52,None,Yes,46.59,Yes,"Two Year",7532.93,Churned,Competitor,"Competitor made better offer"
+1534-OULXE,Female,34,Atherton,61,"Offer B",Yes,42.85,Yes,"One Year",5575.25,Stayed,,
+1536-HBSWP,Female,33,"Terra Bella",1,None,Yes,14.93,Yes,Month-to-Month,64.83,Joined,,
+1536-YHDOE,Male,58,"Round Mountain",17,None,Yes,32.27,Yes,"One Year",1645.24,Stayed,,
+1541-ETJZO,Male,58,Wheatland,1,"Offer E",Yes,47.83,Yes,Month-to-Month,119.88,Churned,Other,Moved
+1543-LLLFT,Male,77,Waterford,61,None,Yes,2.19,Yes,"One Year",6200.14,Stayed,,
+1544-JJMYL,Male,19,"San Jose",27,None,Yes,36.39,Yes,"One Year",2909.83,Stayed,,
+1545-ACTAS,Female,53,"West Covina",48,"Offer B",Yes,36.18,Yes,"One Year",6713.84,Stayed,,
+1545-JFUML,Male,50,"San Diego",71,None,Yes,44.06,Yes,"Two Year",10162.86,Stayed,,
+1548-ARAGG,Female,28,"Cedar Glen",4,None,Yes,35.2,Yes,Month-to-Month,365.65,Stayed,,
+1548-FEHVL,Male,40,Weed,61,None,Yes,27.66,Yes,Month-to-Month,8062.46,Stayed,,
+1550-EENBN,Female,23,Concord,31,None,Yes,45.71,Yes,Month-to-Month,4622.61,Stayed,,
+1550-LOAHA,Female,53,Orangevale,32,None,Yes,37.48,Yes,Month-to-Month,3785.31,Churned,Dissatisfaction,"Limited range of services"
+1552-AAGRX,Female,22,Visalia,30,None,Yes,42.49,Yes,Month-to-Month,4546.6,Stayed,,
+1555-DJEQW,Female,21,Cupertino,70,"Offer A",Yes,16.78,Yes,"Two Year",8849.96,Churned,Price,"Price too high"
+1557-EMYVT,Female,25,Tecate,43,"Offer B",Yes,24.85,Yes,"Two Year",5952.89,Stayed,,
+1564-HJUVY,Male,53,Modesto,4,None,Yes,3.03,Yes,Month-to-Month,238.32,Stayed,,
+1564-NTYXF,Female,79,"San Marcos",13,None,Yes,4.45,Yes,Month-to-Month,1185.05,Churned,Attitude,"Attitude of support person"
+1565-RHDJD,Female,21,"Palo Cedro",4,None,Yes,41.72,Yes,Month-to-Month,500.43,Churned,Competitor,"Competitor offered higher download speeds"
+1567-DSCIC,Male,59,"San Mateo",8,None,Yes,23.89,Yes,Month-to-Month,964.77,Churned,Dissatisfaction,"Product dissatisfaction"
+1568-BEKZM,Male,65,"Baldwin Park",70,None,Yes,12.07,Yes,"Two Year",7178.3,Stayed,,
+1568-LJSZU,Male,39,"Harbor City",68,"Offer A",Yes,38.38,Yes,"Two Year",9002.69,Stayed,,
+1569-TTNYJ,Male,55,Richmond,5,None,Yes,1.16,Yes,Month-to-Month,427.9,Churned,Other,"Don't know"
+1571-SAVHK,Male,20,"Meadow Vista",12,None,Yes,28.16,Yes,Month-to-Month,1590.67,Churned,Competitor,"Competitor had better devices"
+1573-LGXBA,Male,26,Soledad,57,None,Yes,4.18,Yes,"One Year",5836.26,Stayed,,
+1575-KRZZE,Female,64,Murphys,4,"Offer E",Yes,7.49,Yes,Month-to-Month,250.61,Stayed,,
+1576-PFZIW,Male,70,Bakersfield,70,"Offer A",Yes,14.48,Yes,"Two Year",8525.5,Stayed,,
+1579-KLYDT,Male,31,Hickman,7,"Offer E",Yes,35.91,Yes,Month-to-Month,844.82,Churned,Competitor,"Competitor made better offer"
+1580-BMCMR,Male,66,Tehachapi,19,None,Yes,29.8,Yes,Month-to-Month,2203.5,Stayed,,
+1582-RAFML,Male,26,Sacramento,1,"Offer E",Yes,23.63,Yes,Month-to-Month,83.73,Churned,Competitor,"Competitor had better devices"
+1583-IHQZE,Male,60,Camarillo,12,None,Yes,16.45,Yes,Month-to-Month,1582.15,Churned,Attitude,"Attitude of support person"
+1585-MQSSU,Male,36,"Santa Rosa",17,"Offer D",Yes,46.6,Yes,Month-to-Month,1657.36,Churned,Dissatisfaction,"Lack of self-service on Website"
+1587-FKLZB,Male,79,"Santa Barbara",66,"Offer A",Yes,28.86,Yes,Month-to-Month,8726.91,Churned,Competitor,"Competitor had better devices"
+1589-AGTLK,Male,26,"San Diego",3,None,Yes,36.48,Yes,Month-to-Month,250.94,Churned,Other,"Don't know"
+1591-MQJTP,Male,76,"Long Beach",51,"Offer B",Yes,2.21,Yes,"One Year",4951.86,Stayed,,
+1591-NFNLQ,Male,38,Fallbrook,51,None,Yes,5.62,Yes,Month-to-Month,4528.97,Churned,Dissatisfaction,"Poor expertise of online support"
+1596-BBVTG,Male,53,"San Dimas",35,"Offer C",Yes,25.04,Yes,Month-to-Month,3512.45,Churned,Dissatisfaction,"Poor expertise of online support"
+1596-OQSPS,Female,64,Pasadena,11,None,Yes,2.95,Yes,Month-to-Month,563.6,Stayed,,
+1597-FZREH,Female,39,Shoshone,2,"Offer E",Yes,41.64,Yes,Month-to-Month,244.08,Churned,Price,"Lack of affordable download/upload speed"
+1597-LHYNC,Female,74,Auburn,26,None,Yes,47.63,Yes,Month-to-Month,3795.58,Churned,Price,"Price too high"
+1599-MMYRQ,Male,27,Forestville,62,None,Yes,39.67,Yes,"One Year",7428.44,Stayed,,
+1600-DILPE,Female,47,Richvale,12,None,Yes,36.11,Yes,Month-to-Month,957.67,Stayed,,
+1602-IJQQE,Female,42,Whittier,4,"Offer E",Yes,29.11,Yes,Month-to-Month,454.54,Churned,Competitor,"Competitor had better devices"
+1608-GMEWB,Male,76,Stockton,45,"Offer B",Yes,15.65,Yes,"Two Year",4904.5,Stayed,,
+1612-EOHDH,Female,29,Pacoima,1,"Offer E",Yes,30.92,Yes,Month-to-Month,76.07,Churned,Attitude,"Attitude of support person"
+1618-CFHME,Female,30,Riverbank,2,None,Yes,26.87,Yes,Month-to-Month,197.09,Churned,Other,"Don't know"
+1621-YNCJH,Female,54,Sacramento,36,None,Yes,19.24,Yes,"Two Year",4577.04,Stayed,,
+1624-NALOJ,Male,75,"North Hollywood",5,None,Yes,36.36,Yes,Month-to-Month,684.4,Churned,Other,Moved
+1624-WOIWJ,Female,40,Nicasio,10,None,Yes,45.69,Yes,Month-to-Month,1276.14,Churned,Competitor,"Competitor had better devices"
+1625-JAIIY,Female,42,Torrance,68,None,Yes,44.24,Yes,"One Year",8694.12,Churned,Dissatisfaction,"Product dissatisfaction"
+1626-ERCMM,Male,75,"Camp Nelson",20,None,Yes,5.31,Yes,Month-to-Month,2005.85,Churned,Competitor,"Competitor had better devices"
+1628-BIZYP,Male,60,Brentwood,1,None,Yes,15.2,Yes,Month-to-Month,100.2,Joined,,
+1629-DQQVB,Female,19,Keeler,14,None,Yes,36.22,Yes,Month-to-Month,1216.58,Stayed,,
+1635-FJFCC,Female,46,Acton,5,None,Yes,10.99,Yes,Month-to-Month,257.1,Stayed,,
+1640-PLFMP,Female,20,"Los Angeles",1,None,Yes,10.05,Yes,Month-to-Month,90.3,Joined,,
+1641-RQDAY,Female,77,Wallace,32,"Offer C",Yes,49.21,Yes,"One Year",4792.37,Stayed,,
+1642-HMARX,Female,45,Topanga,68,"Offer A",Yes,15.65,Yes,"Two Year",7488.9,Stayed,,
+1644-IRKSF,Female,48,"La Palma",33,None,Yes,20.02,Yes,"One Year",3785.16,Churned,Attitude,"Attitude of support person"
+1656-DRSMG,Female,40,Chico,63,"Offer B",Yes,19.01,Yes,Month-to-Month,8200.58,Stayed,,
+1658-BYGOY,Male,71,"Los Angeles",18,"Offer D",Yes,11.33,Yes,Month-to-Month,1910.88,Churned,Competitor,"Competitor made better offer"
+1658-TJVOA,Female,65,Cazadero,6,None,Yes,12.67,Yes,"Two Year",526.92,Stayed,,
+1658-XUHBX,Female,75,Modesto,59,None,Yes,16.15,Yes,Month-to-Month,6301.5,Stayed,,
+1660-HSOOQ,Male,60,"Santa Barbara",1,None,Yes,4.18,Yes,Month-to-Month,93.83,Churned,Dissatisfaction,"Lack of self-service on Website"
+1661-CZBAU,Male,50,Carlotta,48,"Offer B",Yes,44.76,Yes,"One Year",5777.68,Stayed,,
+1666-JXLKU,Female,64,"Shingle Springs",37,"Offer C",Yes,17.46,Yes,Month-to-Month,4456.57,Stayed,,
+1666-JZPZT,Male,61,"Twin Bridges",27,None,Yes,2.69,Yes,Month-to-Month,1363.98,Stayed,,
+1670-SVOWZ,Female,57,"Mira Loma",14,"Offer D",Yes,7.62,Yes,Month-to-Month,1435.03,Churned,Competitor,"Competitor had better devices"
+1676-MQAOA,Male,32,"North Hollywood",72,"Offer A",Yes,15.03,Yes,"Two Year",6418.51,Stayed,,
+1678-FYZOW,Female,28,Sacramento,3,"Offer E",Yes,46.6,Yes,Month-to-Month,384.45,Churned,Competitor,"Competitor offered higher download speeds"
+1679-JRFBR,Female,27,"Long Beach",70,"Offer A",Yes,5.77,Yes,"One Year",8334.45,Stayed,,
+1684-FLBGS,Female,60,"San Diego",23,None,Yes,27.49,Yes,Month-to-Month,2267.48,Stayed,,
+1685-BQULA,Female,54,"La Quinta",40,"Offer B",Yes,2.83,Yes,Month-to-Month,3865.42,Stayed,,
+1685-VAYJF,Male,44,Salinas,11,"Offer D",Yes,40.59,Yes,Month-to-Month,1088.49,Stayed,,
+1689-MRZQR,Male,36,Turlock,34,None,Yes,13.45,Yes,Month-to-Month,3021.6,Churned,Other,"Don't know"
+1689-YQBYY,Female,43,"Los Gatos",12,"Offer D",Yes,26.13,Yes,Month-to-Month,1206.56,Stayed,,
+1696-HXOWK,Female,53,Riverside,71,"Offer A",Yes,5.22,Yes,"One Year",7227.57,Stayed,,
+1697-BCSHV,Female,44,Guinda,58,"Offer B",Yes,44.1,Yes,Month-to-Month,6528.2,Stayed,,
+1697-NVVGY,Male,71,Fresno,19,None,Yes,30.44,Yes,Month-to-Month,1864.41,Stayed,,
+1698-XFZCI,Male,30,Artesia,61,"Offer B",Yes,42.4,Yes,"One Year",9108.3,Stayed,,
+1699-HPSBG,Male,44,"Palm Springs",12,"Offer D",Yes,9.6,Yes,"One Year",843,Churned,Competitor,"Competitor offered higher download speeds"
+1699-UOTXU,Male,24,"Big Oak Flat",60,"Offer B",Yes,30.92,Yes,"Two Year",5493.45,Stayed,,
+1702-CCFNJ,Male,39,"Los Angeles",52,None,Yes,44.65,Yes,Month-to-Month,5491.35,Stayed,,
+1703-MGIAB,Female,53,"Van Nuys",17,None,Yes,5.49,Yes,Month-to-Month,1167.66,Stayed,,
+1704-NRWYE,Female,79,"Point Reyes Station",9,None,Yes,43.34,Yes,Month-to-Month,1141.71,Churned,Attitude,"Attitude of support person"
+1707-HABPF,Female,65,"Santa Barbara",46,"Offer B",Yes,11.93,Yes,"One Year",4675.13,Stayed,,
+1710-RCXUS,Male,53,Orange,51,None,Yes,9.21,Yes,"One Year",5084.26,Stayed,,
+1716-LSAMB,Male,21,"Santa Ana",45,None,Yes,45.21,Yes,"Two Year",4588.15,Stayed,,
+1723-HKXJQ,Male,64,"San Diego",42,None,Yes,18.79,Yes,Month-to-Month,5062.63,Churned,Other,"Don't know"
+1724-BQUHA,Male,67,"Los Gatos",5,None,Yes,45.72,Yes,Month-to-Month,706.3,Churned,Attitude,"Attitude of support person"
+1725-IQNIY,Male,34,"San Bernardino",54,None,Yes,42.09,Yes,"Two Year",8383.06,Churned,Competitor,"Competitor had better devices"
+1728-BQDMA,Female,22,Penryn,2,"Offer E",Yes,18.7,Yes,Month-to-Month,120.1,Joined,,
+1728-CXQBE,Male,79,Glenn,64,"Offer B",Yes,23.33,Yes,"Two Year",7574.52,Stayed,,
+1730-VFMWO,Female,33,Petaluma,34,None,Yes,40.67,Yes,Month-to-Month,3198.08,Stayed,,
+1730-ZMAME,Female,74,Ontario,32,None,Yes,48.62,Yes,"Two Year",4220.84,Stayed,,
+1731-TVIUK,Female,47,Temecula,4,"Offer E",Yes,7.39,Yes,Month-to-Month,391.76,Churned,Competitor,"Competitor made better offer"
+1732-FEKLD,Female,30,"Newport Beach",54,"Offer B",Yes,37.65,Yes,"One Year",7224.85,Stayed,,
+1732-VHUBQ,Female,73,Escondido,47,None,Yes,26.95,Yes,Month-to-Month,4548.91,Churned,Competitor,"Competitor made better offer"
+1741-WTPON,Male,42,Westport,56,"Offer B",Yes,40.86,Yes,"Two Year",8856.06,Stayed,,
+1746-TGTWV,Male,32,Whittier,1,"Offer E",Yes,38.89,Yes,Month-to-Month,114.24,Joined,,
+1750-CSKKM,Male,40,"Imperial Beach",9,"Offer E",Yes,41.02,Yes,Month-to-Month,818.93,Churned,Competitor,"Competitor had better devices"
+1751-NCDLI,Male,74,Castroville,46,None,Yes,4.2,Yes,"One Year",4758.1,Stayed,,
+1752-OZXFY,Male,39,Lockwood,60,"Offer B",Yes,15.24,Yes,"One Year",4475.55,Stayed,,
+1754-GKYPY,Male,65,Carson,22,None,Yes,22.38,Yes,Month-to-Month,2431.26,Stayed,,
+1761-AEZZR,Male,59,Guinda,1,None,Yes,4.04,Yes,Month-to-Month,83.59,Churned,Other,"Don't know"
+1763-WQFUK,Male,45,Riverside,3,None,Yes,26.38,Yes,Month-to-Month,226.89,Joined,,
+1766-GKNMI,Male,56,Bakersfield,29,None,Yes,9.49,Yes,Month-to-Month,2744.37,Stayed,,
+1767-TGTKO,Female,30,"Dana Point",8,"Offer E",Yes,5.09,Yes,Month-to-Month,452.47,Stayed,,
+1768-HNVGJ,Female,80,"Mountain View",45,"Offer B",Yes,18.46,Yes,"Two Year",3893.15,Stayed,,
+1769-GRUIK,Female,19,Gridley,18,"Offer D",Yes,2.76,Yes,Month-to-Month,1447.43,Stayed,,
+1771-OADNZ,Male,70,"Pauma Valley",29,"Offer C",Yes,35.38,Yes,Month-to-Month,3821.22,Churned,Price,"Extra data charges"
+1775-KWJKQ,Male,41,"Santa Barbara",72,None,Yes,26.96,Yes,"Two Year",8491.47,Stayed,,
+1779-PWPMG,Female,73,"San Jose",72,"Offer A",Yes,4.59,Yes,"Two Year",8664.43,Stayed,,
+1784-EZDKJ,Male,31,Hemet,51,"Offer B",Yes,29.4,Yes,"One Year",7138.2,Stayed,,
+1785-BPHTP,Male,64,"Santa Monica",28,None,Yes,3.18,Yes,Month-to-Month,2378.94,Stayed,,
+1791-PQHBB,Female,28,"El Dorado",2,"Offer E",Yes,32.06,Yes,Month-to-Month,190.07,Joined,,
+1792-UXAFY,Female,80,"San Jose",17,"Offer D",Yes,30.37,Yes,Month-to-Month,2013.19,Churned,Dissatisfaction,"Service dissatisfaction"
+1794-HBQTJ,Female,22,Corcoran,1,"Offer E",Yes,6.54,Yes,Month-to-Month,55.14,Churned,Dissatisfaction,"Poor expertise of phone support"
+1794-SWWKL,Male,22,Dorris,15,"Offer D",Yes,24.36,Yes,Month-to-Month,1199.85,Stayed,,
+1803-BGNBD,Female,59,"Santa Monica",12,"Offer D",Yes,37.63,Yes,Month-to-Month,1236.06,Stayed,,
+1809-DMJHQ,Female,56,"Newport Beach",5,None,Yes,23.89,Yes,Month-to-Month,341.15,Churned,Competitor,"Competitor had better devices"
+1810-BOHSY,Male,63,Vacaville,51,"Offer B",Yes,35,Yes,"One Year",6696.05,Stayed,,
+1810-MVMAI,Male,31,"San Jose",30,"Offer C",Yes,48.04,Yes,Month-to-Month,3441.4,Stayed,,
+1813-JYWTO,Female,59,Shandon,72,None,Yes,6.23,Yes,"Two Year",6316.16,Stayed,,
+1818-ESQMW,Female,31,"San Joaquin",27,"Offer C",Yes,39.62,Yes,Month-to-Month,3453.34,Stayed,,
+1820-TQVEV,Male,27,Madera,1,"Offer E",Yes,49.43,Yes,Month-to-Month,118.98,Churned,Attitude,"Attitude of support person"
+1821-BUCWY,Male,35,Valyermo,30,"Offer C",Yes,47.06,Yes,"Two Year",3065.65,Stayed,,
+1830-GGFNM,Male,35,Somerset,65,"Offer B",Yes,19.53,Yes,"Two Year",7348.2,Stayed,,
+1832-PEUTS,Male,23,"San Bernardino",62,"Offer B",Yes,37.75,Yes,"Two Year",7752.15,Stayed,,
+1833-TCXKK,Male,50,"San Bernardino",45,"Offer B",Yes,29.81,Yes,Month-to-Month,6224.25,Stayed,,
+1833-VGRUM,Female,70,Perris,1,"Offer E",Yes,48.95,Yes,Month-to-Month,123.15,Churned,Price,"Price too high"
+1834-ABKHQ,Female,59,"Upper Lake",52,"Offer B",Yes,10.03,Yes,"One Year",3132.21,Stayed,,
+1840-BIUOG,Male,23,Hayward,20,None,Yes,32.5,Yes,"One Year",2066.2,Stayed,,
+1841-YSJGV,Male,58,"South El Monte",72,"Offer A",Yes,40.78,Yes,"Two Year",10788.56,Stayed,,
+1842-EZJMK,Male,28,Orangevale,50,"Offer B",Yes,34.14,Yes,Month-to-Month,6741.44,Churned,Competitor,"Competitor had better devices"
+1845-CSBRZ,Female,71,Pomona,22,"Offer D",Yes,40.19,Yes,"Two Year",2845.78,Stayed,,
+1845-ZLLIG,Male,45,Woodbridge,1,"Offer E",Yes,20.3,Yes,Month-to-Month,70.45,Joined,,
+1846-XWOQN,Female,80,Bradley,1,None,Yes,47.97,Yes,Month-to-Month,118.12,Churned,Competitor,"Competitor made better offer"
+1848-LBZHY,Female,19,Downey,7,None,Yes,33.24,Yes,Month-to-Month,587.78,Stayed,,
+1849-RJYIG,Female,43,Sunnyvale,8,None,Yes,46.78,Yes,Month-to-Month,861.99,Stayed,,
+1852-XEMDW,Male,20,"Mad River",22,"Offer D",Yes,43.78,Yes,Month-to-Month,2400.71,Stayed,,
+1853-UDXBW,Male,38,Samoa,1,None,Yes,38.8,Yes,Month-to-Month,108.8,Churned,Price,"Price too high"
+1855-AGAWH,Male,27,Bell,31,None,Yes,36.69,Yes,"One Year",4077.19,Stayed,,
+1866-NXPSP,Female,48,Arcata,36,None,Yes,32,Yes,"One Year",3932.15,Stayed,,
+1866-OBPNR,Male,28,Sacramento,1,None,Yes,42.99,Yes,Month-to-Month,117.59,Joined,,
+1866-RZZQS,Male,77,Redlands,41,"Offer B",Yes,42.06,Yes,Month-to-Month,5912.21,Churned,Competitor,"Competitor had better devices"
+1867-BDVFH,Male,35,"Los Angeles",11,"Offer D",Yes,9.14,Yes,Month-to-Month,934.74,Churned,Competitor,"Competitor made better offer"
+1867-TJHTS,Female,47,Sacramento,58,None,Yes,22.71,Yes,Month-to-Month,5844.03,Stayed,,
+1871-MOWRM,Male,57,Woodacre,12,None,Yes,18.26,Yes,Month-to-Month,1061.85,Churned,Competitor,"Competitor offered more data"
+1875-QIVME,Female,26,Tujunga,2,"Offer E",Yes,11.51,Yes,Month-to-Month,220.38,Churned,Attitude,"Attitude of support person"
+1877-HKBQX,Female,21,Cerritos,11,"Offer D",Yes,1.16,Yes,"One Year",630.61,Stayed,,
+1891-FZYSA,Male,65,Piercy,69,None,Yes,16.34,Yes,Month-to-Month,7373.82,Churned,Competitor,"Competitor had better devices"
+1891-QRQSA,Male,71,Downey,64,"Offer B",Yes,16.33,Yes,"Two Year",8144.12,Stayed,,
+1891-UAWWU,Female,79,Johannesburg,20,None,Yes,4.77,Yes,Month-to-Month,2046.4,Churned,Competitor,"Competitor had better devices"
+1894-IGFSG,Female,38,Lancaster,22,None,Yes,18.01,Yes,Month-to-Month,2304.07,Churned,Competitor,"Competitor had better devices"
+1895-QTKDO,Female,38,"San Jacinto",1,None,Yes,45.59,Yes,Month-to-Month,89.54,Joined,,
+1897-OKVMW,Female,44,Lathrop,64,None,Yes,37,Yes,"Two Year",8185.45,Stayed,,
+1898-JSNDC,Female,23,"Elk Grove",39,"Offer C",Yes,48.17,Yes,"One Year",4103.13,Stayed,,
+1899-VXWXM,Male,55,"San Diego",48,None,Yes,24.73,Yes,"One Year",6269.84,Churned,Other,"Don't know"
+1902-XBTFB,Male,39,"North Hollywood",22,"Offer D",Yes,39.58,Yes,Month-to-Month,2872.26,Churned,Dissatisfaction,"Lack of self-service on Website"
+1904-WAJAA,Female,23,Coronado,24,"Offer C",Yes,46.54,Yes,"Two Year",2675.61,Stayed,,
+1907-UBQFC,Male,69,"San Francisco",10,None,Yes,5.46,Yes,Month-to-Month,773.25,Churned,Competitor,"Competitor had better devices"
+1907-YLNYW,Male,47,Gasquet,8,None,Yes,41.13,Yes,Month-to-Month,908.04,Stayed,,
+1910-FMXJM,Female,59,Colton,36,None,Yes,49.33,Yes,Month-to-Month,4713.53,Stayed,,
+1915-IOFGU,Female,53,Keene,1,None,Yes,41.39,Yes,Month-to-Month,111.89,Churned,Competitor,"Competitor offered higher download speeds"
+1918-ZBFQJ,Female,48,Glendale,13,None,Yes,33.54,Yes,Month-to-Month,1499.42,Churned,Competitor,"Competitor had better devices"
+1919-RTPQD,Male,42,"Fish Camp",7,"Offer E",Yes,28.7,Yes,Month-to-Month,534.55,Stayed,,
+1921-KYSAY,Female,36,Olivehurst,41,None,Yes,36.93,Yes,"One Year",4391.18,Stayed,,
+1925-TIBLE,Female,62,"Los Angeles",7,None,Yes,22.61,Yes,Month-to-Month,760.77,Churned,Competitor,"Competitor offered higher download speeds"
+1928-BXYIV,Male,47,Placerville,1,"Offer E",Yes,17.07,Yes,Month-to-Month,78.22,Joined,,
+1930-QPBVZ,Male,31,Laytonville,68,"Offer A",Yes,9.29,Yes,"Two Year",7315.12,Stayed,,
+1930-WNXSB,Male,38,Covina,58,None,Yes,47.69,Yes,Month-to-Month,8071.07,Stayed,,
+1932-UEDCX,Male,79,Manchester,33,None,Yes,44.1,Yes,Month-to-Month,4725.55,Stayed,,
+1935-IMVBB,Male,43,"San Diego",56,None,Yes,3.79,Yes,Month-to-Month,5123.53,Stayed,,
+1936-UAFEH,Female,43,Pioneer,68,None,Yes,48.82,Yes,"Two Year",10629.11,Stayed,,
+1937-OTUKY,Female,32,Seaside,72,None,Yes,25.48,Yes,"Two Year",8850.46,Stayed,,
+1941-HOSAM,Male,20,"San Diego",1,None,Yes,24.33,Yes,Month-to-Month,114.43,Joined,,
+1942-OQFRW,Male,62,"Forest Knolls",1,"Offer E",Yes,13.4,Yes,Month-to-Month,57.4,Joined,,
+1950-KSVVJ,Female,57,"Monterey Park",45,"Offer B",Yes,33.54,Yes,"One Year",6541.55,Stayed,,
+1951-IEYXM,Male,57,"Rancho Cucamonga",72,None,Yes,34.97,Yes,"Two Year",8959.69,Stayed,,
+1956-YIFGE,Male,36,Boulevard,22,None,Yes,9.05,Yes,"One Year",2289.35,Stayed,,
+1958-RNRKS,Male,62,"El Segundo",30,None,Yes,5.56,Yes,Month-to-Month,1708.75,Stayed,,
+1960-UOTYM,Male,61,Lakewood,52,None,Yes,16.53,Yes,"Two Year",4875.86,Stayed,,
+1960-UYCNN,Male,35,Julian,10,None,Yes,26.43,Yes,Month-to-Month,1285.85,Stayed,,
+1963-SVUCV,Male,59,Flournoy,1,None,Yes,28.37,Yes,Month-to-Month,103.67,Churned,Competitor,"Competitor offered higher download speeds"
+1965-AKTSX,Female,65,Byron,14,"Offer D",Yes,16.36,Yes,Month-to-Month,1330.89,Churned,Competitor,"Competitor made better offer"
+1965-DDBWU,Male,37,Escondido,16,None,Yes,11.96,Yes,Month-to-Month,1639.96,Churned,Competitor,"Competitor made better offer"
+1971-DTCZB,Female,52,Yreka,72,None,Yes,42.64,Yes,"Two Year",9538.68,Stayed,,
+1972-XMUWV,Female,46,Miramonte,65,None,Yes,10.23,Yes,"Two Year",4473.15,Stayed,,
+1976-CFOCS,Female,69,"Dana Point",1,None,Yes,7.74,Yes,Month-to-Month,53.74,Churned,Competitor,"Competitor had better devices"
+1977-STDKI,Female,72,"The Sea Ranch",1,None,Yes,20.55,Yes,Month-to-Month,93.55,Churned,Competitor,"Competitor offered more data"
+1980-KXVPM,Female,68,"El Centro",3,None,Yes,23.82,Yes,Month-to-Month,327.71,Churned,Competitor,"Competitor had better devices"
+1981-INRFU,Female,44,"San Diego",2,None,Yes,8.32,Yes,Month-to-Month,181.14,Churned,Competitor,"Competitor made better offer"
+1984-FCOWB,Female,21,Templeton,70,"Offer A",Yes,41.88,Yes,"One Year",10756.15,Churned,Attitude,"Attitude of service provider"
+1986-PHGZF,Male,73,Greenwood,18,"Offer D",Yes,47.34,Yes,"Two Year",1817.02,Stayed,,
+1989-PRJHP,Male,75,Pleasanton,27,None,Yes,10.6,Yes,Month-to-Month,2180.15,Churned,Competitor,"Competitor had better devices"
+1996-DBMUS,Female,72,"Palo Verde",48,None,Yes,12.6,Yes,"One Year",4149.85,Stayed,,
+2000-DHJUY,Female,67,"Menlo Park",70,"Offer A",Yes,18.67,Yes,"Two Year",7781.35,Stayed,,
+2000-MPKCA,Female,51,"San Pedro",58,"Offer B",Yes,46.7,Yes,"One Year",9041.35,Stayed,,
+2001-EWBQU,Female,23,Stockton,60,None,Yes,35.47,Yes,"Two Year",8612,Stayed,,
+2001-MCUUW,Male,51,Corona,46,None,Yes,37.5,Yes,"Two Year",6628.2,Stayed,,
+2003-CKLOR,Male,62,Igo,66,"Offer A",Yes,25.82,Yes,Month-to-Month,8414.62,Churned,Other,Moved
+2004-OCQXK,Female,44,Merced,1,"Offer E",Yes,44.94,Yes,Month-to-Month,126.89,Churned,Competitor,"Competitor had better devices"
+2012-NWRPA,Female,78,Modesto,11,"Offer D",Yes,1.28,Yes,Month-to-Month,1145.28,Churned,Competitor,"Competitor made better offer"
+2013-SGDXK,Female,27,Mariposa,1,None,Yes,1.63,Yes,Month-to-Month,95.93,Churned,Competitor,"Competitor offered more data"
+2014-MKGMH,Female,45,Riverside,46,"Offer B",Yes,27.97,Yes,"One Year",5961.02,Stayed,,
+2018-PZKMU,Male,32,"Santa Ana",9,"Offer E",Yes,44.37,Yes,Month-to-Month,1351.16,Stayed,,
+2018-QKYGT,Male,19,"San Gabriel",1,None,Yes,36.32,Yes,Month-to-Month,117.37,Joined,,
+2019-HDCZY,Male,35,Farmersville,63,None,Yes,2.72,Yes,"Two Year",6468.11,Stayed,,
+2024-BASKD,Female,23,Exeter,1,"Offer E",Yes,22.16,Yes,Month-to-Month,106.76,Churned,Competitor,"Competitor offered more data"
+2025-JKFWI,Male,31,Burbank,13,None,Yes,24.14,Yes,Month-to-Month,1615.52,Churned,Price,"Lack of affordable download/upload speed"
+2026-TGDHM,Female,54,Cloverdale,7,None,Yes,19.21,Yes,Month-to-Month,667.62,Churned,Competitor,"Competitor had better devices"
+2027-CWDNU,Male,45,Venice,18,None,Yes,28.04,Yes,Month-to-Month,2106.22,Stayed,,
+2027-DNKIV,Male,28,"Spring Valley",37,None,Yes,35.67,Yes,"One Year",3522.89,Stayed,,
+2027-FECZV,Male,44,Bodfish,12,None,Yes,25.19,Yes,Month-to-Month,1556.18,Churned,Attitude,"Attitude of support person"
+2027-WKXMW,Female,49,Montara,63,"Offer B",Yes,20.37,Yes,Month-to-Month,8155.01,Stayed,,
+2034-CGRHZ,Male,73,"San Francisco",24,None,Yes,3.23,Yes,Month-to-Month,2574.22,Churned,Attitude,"Attitude of support person"
+2034-GDRCN,Female,47,"San Diego",2,"Offer E",Yes,10.53,Yes,Month-to-Month,189.26,Churned,Other,"Don't know"
+2037-SGXHH,Male,25,"Campo Seco",38,None,Yes,49.7,Yes,Month-to-Month,5512.9,Churned,Other,"Don't know"
+2037-XJFUP,Male,24,Temecula,33,"Offer C",Yes,41.8,Yes,"One Year",4476.15,Churned,Competitor,"Competitor made better offer"
+2038-LLMLM,Female,35,"El Centro",48,None,Yes,10.5,Yes,Month-to-Month,5450.05,Stayed,,
+2038-OEQZH,Male,63,Menifee,4,None,Yes,44.36,Yes,Month-to-Month,485.54,Stayed,,
+2038-YSEZE,Female,48,"Los Angeles",29,"Offer C",Yes,13.74,Yes,Month-to-Month,2199.56,Stayed,,
+2039-JONDJ,Male,50,Burbank,27,None,Yes,20.29,Yes,"One Year",2025.48,Stayed,,
+2040-LDIWQ,Male,51,"Woodland Hills",65,"Offer B",Yes,41.57,Yes,"Two Year",8026.55,Stayed,,
+2040-OBMLJ,Male,24,Dunlap,31,None,Yes,17.18,Yes,"One Year",3081.23,Stayed,,
+2040-VZIKE,Female,56,Stevinson,49,None,Yes,44.81,Yes,Month-to-Month,7043.04,Stayed,,
+2040-XBAVJ,Male,51,Malibu,72,"Offer A",Yes,24.95,Yes,"Two Year",9896.95,Stayed,,
+2041-JIJCI,Female,37,Wendel,5,None,Yes,44.78,Yes,Month-to-Month,594.15,Stayed,,
+2043-WVTQJ,Male,61,Westminster,1,None,Yes,17.68,Yes,Month-to-Month,73.38,Joined,,
+2054-PJOCK,Female,32,Corona,60,None,Yes,16.11,Yes,"One Year",5813.65,Stayed,,
+2055-BFOCC,Male,65,Likely,63,None,Yes,40.65,Yes,"One Year",7890.5,Stayed,,
+2055-PDADH,Female,71,"Big Bend",3,"Offer E",Yes,2.26,Yes,Month-to-Month,211.48,Churned,Other,"Don't know"
+2055-SIFSS,Female,75,Westmorland,55,None,Yes,29.53,Yes,"One Year",4462.7,Stayed,,
+2056-EVGZL,Male,56,"West Covina",68,None,Yes,8.88,Yes,"One Year",7926.34,Stayed,,
+2057-BOYKM,Female,70,Inglewood,72,None,Yes,28.09,Yes,"Two Year",8849.98,Stayed,,
+2057-ZBLPD,Female,50,"Los Gatos",21,"Offer D",Yes,42.22,Yes,Month-to-Month,2695.32,Churned,Competitor,"Competitor offered more data"
+2058-DCJBE,Male,32,"Los Angeles",5,"Offer E",Yes,31.14,Yes,Month-to-Month,480.3,Churned,Competitor,"Competitor had better devices"
+2065-MMKGR,Female,47,"Diamond Springs",29,None,Yes,41.38,Yes,"One Year",3280.12,Stayed,,
+2067-QYTCF,Female,41,"Los Angeles",64,None,Yes,8.6,Yes,Month-to-Month,7503.8,Stayed,,
+2070-FNEXE,Female,77,Pasadena,7,"Offer E",Yes,26.95,Yes,Month-to-Month,681.2,Churned,Price,"Lack of affordable download/upload speed"
+2070-XYMFH,Female,66,"Long Beach",23,None,Yes,8.72,Yes,"Two Year",2020.45,Stayed,,
+2074-GKOWZ,Male,49,Novato,2,"Offer E",Yes,8.86,Yes,Month-to-Month,203.27,Churned,Competitor,"Competitor had better devices"
+2074-GUHPQ,Female,37,Albion,17,None,Yes,49.78,Yes,Month-to-Month,2403.11,Stayed,,
+2075-RMJIK,Female,54,"Santa Ysabel",5,None,Yes,47.06,Yes,Month-to-Month,477.85,Stayed,,
+2077-DDHJK,Female,48,Goleta,68,None,Yes,27.41,Yes,"Two Year",6725.86,Stayed,,
+2077-MPJQO,Male,80,"Menlo Park",7,None,Yes,21.37,Yes,Month-to-Month,682.64,Stayed,,
+2079-FBMZK,Female,50,Antelope,6,None,Yes,39.36,Yes,Month-to-Month,654.56,Churned,Competitor,"Competitor made better offer"
+2080-CAZNM,Female,78,Burbank,41,"Offer B",Yes,6.33,Yes,Month-to-Month,4393.48,Stayed,,
+2080-GKCWQ,Male,54,"San Pablo",2,None,Yes,3.76,Yes,Month-to-Month,159.27,Joined,,
+2081-VEYEH,Male,42,Compton,3,"Offer E",Yes,12.66,Yes,Month-to-Month,356.58,Joined,,
+2082-CEFLT,Male,31,"San Diego",1,"Offer E",Yes,11.73,Yes,Month-to-Month,57.33,Churned,Competitor,"Competitor made better offer"
+2082-OJVTK,Male,25,"San Diego",29,None,Yes,4,Yes,Month-to-Month,2814.35,Churned,Competitor,"Competitor made better offer"
+2085-BOJKI,Male,33,"Long Beach",17,"Offer D",Yes,28.83,Yes,"One Year",2078.36,Stayed,,
+2087-QAREY,Female,60,"Sequoia National Park",22,"Offer D",Yes,39.83,Yes,Month-to-Month,2055.01,Stayed,,
+2088-IEBAU,Female,63,Poway,68,None,Yes,21.82,Yes,"Two Year",7595.92,Stayed,,
+2091-GPPIQ,Female,56,"Yuba City",72,"Offer A",Yes,26.04,Yes,"Two Year",7605.03,Stayed,,
+2091-RFFBA,Female,70,"Port Costa",31,None,Yes,15.43,Yes,Month-to-Month,2695.48,Churned,Attitude,"Attitude of support person"
+2100-BDNSN,Female,39,"Strawberry Valley",5,None,Yes,14.9,Yes,Month-to-Month,444.8,Churned,Price,"Price too high"
+2101-RANCD,Female,50,"El Dorado Hills",55,None,Yes,8.93,Yes,Month-to-Month,4636.05,Stayed,,
+2103-ZRXFN,Male,19,"La Quinta",1,None,Yes,24.66,Yes,Month-to-Month,75.41,Joined,,
+2105-PHWON,Female,41,Navarro,33,None,Yes,10.34,Yes,Month-to-Month,3409.37,Stayed,,
+2107-FBPTK,Female,80,Ramona,30,None,Yes,41.93,Yes,"Two Year",4379,Stayed,,
+2108-GLPQB,Male,49,"Los Angeles",25,"Offer C",Yes,11.6,Yes,Month-to-Month,1695.3,Stayed,,
+2108-YKQTY,Female,42,"Santa Monica",4,None,Yes,9.81,Yes,Month-to-Month,190.54,Churned,Other,"Don't know"
+2114-MGINA,Female,57,"Rio Vista",14,"Offer D",Yes,10.3,Yes,Month-to-Month,1273.3,Churned,Attitude,"Attitude of support person"
+2115-BFTIW,Male,52,"Clearlake Oaks",25,None,Yes,24.91,Yes,Month-to-Month,2410.1,Churned,Dissatisfaction,"Product dissatisfaction"
+2121-JAFOM,Female,23,Danville,72,None,Yes,1.67,Yes,"Two Year",8432.64,Stayed,,
+2122-YWVYA,Female,44,"San Francisco",18,"Offer D",Yes,15.01,Yes,Month-to-Month,1650.58,Stayed,,
+2123-AGEEN,Female,66,Millbrae,7,"Offer E",Yes,26.29,Yes,"One Year",774.51,Stayed,,
+2123-VSCOT,Female,39,Pomona,59,None,Yes,24.81,Yes,"Two Year",5658.64,Stayed,,
+2126-GSEGL,Female,53,Solvang,70,None,Yes,9.28,Yes,"Two Year",6687.15,Stayed,,
+2133-TSRRM,Female,47,Rosemead,34,None,Yes,32.94,Yes,Month-to-Month,4918.56,Stayed,,
+2135-DQWAQ,Female,37,"Santa Barbara",5,"Offer E",Yes,45.74,Yes,Month-to-Month,659.15,Stayed,,
+2135-RXIHG,Male,63,Carson,1,"Offer E",Yes,14.12,Yes,Month-to-Month,59.77,Churned,Competitor,"Competitor had better devices"
+2139-FQHLM,Male,49,Corona,19,"Offer D",Yes,9.55,Yes,Month-to-Month,1834.21,Stayed,,
+2141-RRYGO,Female,51,Camino,4,"Offer E",Yes,10.64,Yes,Month-to-Month,303.81,Churned,Dissatisfaction,"Poor expertise of online support"
+2144-BFDSO,Female,70,Ranchita,50,"Offer B",Yes,9.18,Yes,Month-to-Month,5890.9,Stayed,,
+2150-UWTFY,Female,21,"San Mateo",22,"Offer D",Yes,42.98,Yes,Month-to-Month,2447.61,Churned,Dissatisfaction,"Service dissatisfaction"
+2150-WLKUW,Female,27,Banning,40,"Offer B",Yes,42.1,Yes,"One Year",4319,Stayed,,
+2153-MREFK,Female,55,Fawnskin,37,None,Yes,30.16,Yes,"One Year",4870.52,Churned,Attitude,"Attitude of support person"
+2154-KVJFF,Female,42,Stevinson,15,"Offer D",Yes,42.83,Yes,Month-to-Month,1754.3,Churned,Dissatisfaction,"Limited range of services"
+2155-AMQRX,Female,37,Norwalk,28,None,Yes,3.25,Yes,Month-to-Month,1596.15,Stayed,,
+2157-MXBJS,Male,20,Calistoga,13,"Offer D",Yes,41.22,Yes,"One Year",1525.31,Churned,Dissatisfaction,"Network reliability"
