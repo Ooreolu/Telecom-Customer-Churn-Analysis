@@ -184,16 +184,3 @@ SELECT DISTINCT `Internet Service`,
 	COUNT(`Internet Service`) AS Count
 FROM `Telecom`.`t_churn`
 GROUP BY `Internet Service`;
-
-
-
- 
-
-
-
-  
-
-
-
-
-
